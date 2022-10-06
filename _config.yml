@@ -19,7 +19,7 @@ sass:
 # SEO settings
 title: Matías Mattamala's website
 description: "Personal website"
-keywords: "Matías Mattamala, Matías, Mattamala, robotics, perception, legged robots"
+keywords: "Matías Mattamala, Matías, Mattamala, robotics, perception, legged robots, computer vision, state estimation, SLAM"
 url: http://mmattamala.github.io
 baseurl: ""
 
@@ -33,11 +33,12 @@ author:
   name: Matías Mattamala
   job: roboticist
   interests: legged robots and perception
-  bio: I'm a PhD (DPhil) student in the [**Dynamic Robot Systems Group (DRS)**](https://ori.ox.ac.uk/labs/drs/) of the [**Oxford Robotics Institute**](https://ori.ox.ac.uk/), under the supervision of [**Assoc. Prof. Maurice Fallon**](https://ori.ox.ac.uk/people/maurice-fallon/). 
-      <br>
-      I'm working on long-term visual navigation for legged robots.
+  bio: "**News:** I'm back in Oxford, to work in the last project of my PhD! I expect to graduate before September 2023.
       <br><br>
-      I hold a M.Sc in Electrical Engineering from the [**Universidad de Chile**](https://www.uchile.cl). My thesis was related to Visual SLAM for NAO robots. [**Video**](https://www.youtube.com/watch?v=ED_H3ngLncA) and [**full document**](http://repositorio.uchile.cl/bitstream/handle/2250/168075/Localizaci%c3%b3n-visual-en-robots-de-recursos-computacionales-limitados.pdf?sequence=1&isAllowed=y).
+      I'm a final year PhD (DPhil) student in the [**Dynamic Robot Systems Group (DRS)**](https://ori.ox.ac.uk/labs/drs/) of the [**Oxford Robotics Institute**](https://ori.ox.ac.uk/), supervised by [**Prof. Maurice Fallon**](https://ori.ox.ac.uk/people/maurice-fallon/). I'm working on long-term visual navigation for legged robots.
+      <br><br>
+      From April to September 2022 I was a visiting researcher at the [**Robotic Systems Lab**](https://rsl.ethz.ch) at ETH Zurich under Prof. Marco Hutter.
+      Before the PhD, I did my master in visual-proprioceptive SLAM in the [**UChile Robotics Lab**](https://uchile-robotics.github.io) led by [**Prof. Javier Ruiz-del-Solar**](http://www.cec.uchile.cl/~jruizd/)."
        
 
   thumb: /images/mm2019.jpg
@@ -45,7 +46,7 @@ author:
   url: https://mmattamala.github.io/
   github: https://github.com/mmattamala
   linkedin: https://linkedin.com/in/mmattamala
-  google_scholar: https://scholar.google.cl/citations?user=R5aRkHUAAAAJ&hl=es
+  google_scholar: https://scholar.google.co.uk/citations?hl=en&user=R5aRkHUAAAAJ&view_op=list_works&authuser=1&sortby=pubdate
   instagram: https://instagram.com/mmattamala
   researchgate: https://www.researchgate.net/profile/Matias_Mattamala
   arxiv: https://instagram.com/mmattamala
