@@ -1,17 +1,11 @@
 blockquote
-  background: #f9f9f9
-  border-left: 10px solid #ccc
+  background: $quote-color
+  border-left: 10px solid lighten($dark-gray-color, 10%)
   margin: 1.5em 10px
   padding: 0.5em 10px
-  quotes: "“" "”" "‘" "’"
-
-blockquote:before
-  color: #ccc
-  content: open-quote
-  font-size: 4em
-  line-height: 0.1em
-  margin-right: 0.25em
-  vertical-align: -0.4em
+  quotes: "" "" "" ""
+  width: 90%
+  height: 50%
 
 blockquote p
-  display: inline
+  display: block

@@ -3,6 +3,7 @@ permalink: /blog/:year/:title/
 markdown: kramdown
 kramdown:
   math_engine: mathjax
+  parse_block_html: true
 
 highlighter: pygments
 plugins: 
@@ -38,8 +39,8 @@ disqus_site_shortname: "mmattamala"
 author:
   name: Matías Mattamala
   job: roboticist
-  interests: the interaction of perception and control in robotics
-  bio: "I'm a final-year PhD (DPhil) student in the [**Dynamic Robot Systems Group (DRS)**](https://ori.ox.ac.uk/labs/drs/) of the [**Oxford Robotics Institute**](https://ori.ox.ac.uk/), supervised by [**Maurice Fallon**](https://ori.ox.ac.uk/people/maurice-fallon/)." 
+  interests: perception and control for robotics
+  bio: "I'm a final-year PhD (DPhil) student in the [**Dynamic Robot Systems Group (DRS)**](https://ori.ox.ac.uk/labs/drs/), working on visual navigation for legged robots in challenging environments." 
   news: "**News:** After 6 months at ETH Zurich, I'm back in Oxford for the last project of my PhD. I expect to graduate before September 2023."
        
 
