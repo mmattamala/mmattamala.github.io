@@ -5,15 +5,18 @@ layout: default
 <section class="hero">
   <div class="hero-inner">
     <div class="container">
-      <img src="{{ site.author.thumb | prepend: site.baseurl }}" alt="author thumb" class="dot" style="width: 25%">
+      <img src="{{ site.author.thumb | prepend: site.baseurl }}" alt="author thumb" class="dot" style="width: 20%">
       <!-- <h1>end2end <small>v2.0</small></h1> -->
       <h3>I'm <strong itemprop="name">{{ site.author.name }}</strong>, a {{ site.author.job }} interested in {{ site.author.interests }}.</h3>
-      <h3>{{ site.author.bio | markdownify }}</h3>
-      <!-- a href="{{ '/cv' | prepend: site.baseurl }}" class="button button-ghost" title="cv">cv</a> -->
-      <!-- a href="{{ '/publications' | prepend: site.baseurl }}" class="button button-ghost" title="publications">publications</a> -->
-      <!-- a href="{{ '/blog' | prepend: site.baseurl }}" class="button button-ghost" title="blog">blog</a> -->
-      <!-- <a href="{{ site.repo }}/archive/master.zip" class="button button-ghost" title="Download">Download</a> -->
-      {% include social.html %}
+      
+      <!-- Personal blurb -->
+      <!-- <h3>{{ site.author.bio | markdownify }}</h3> -->
+
+      <!-- Personal blurb -->
+      <div class="news">
+        <h3>{{ site.author.news | markdownify }}</h3>
+      </div>
+
     </div>
   </div>
 </section>

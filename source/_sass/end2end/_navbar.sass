@@ -22,16 +22,6 @@
     position: relative
     color: #fff
 
-    &:before,
-    &:after
-      content: ''
-      display: block
-      height: 2px
-      width: 0
-      background-color: #fff
-      transition: width $base-duration $base-timing
-      +position(absolute, null 0 null null)
-
     &:before
       top: 0
       left: 0
@@ -41,8 +31,8 @@
       right: 0
 
     &:hover, &:focus
-      color: #fff
-      opacity: .7
+      color: focus
+      opacity: 1.0
       &:before,
       &:after
         width: 100%
@@ -70,7 +60,7 @@
         background-color: $light-gray-color
 
       &:hover, &:focus
-        color: inherit
+        color: $primary-color
 
 .toggle-navbar-button
   float: right

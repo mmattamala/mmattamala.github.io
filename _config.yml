@@ -2,7 +2,10 @@
 permalink: /blog/:year/:title/
 markdown: kramdown
 highlighter: pygments
-plugins: [jekyll-paginate-v2]
+plugins: 
+  - jekyll-paginate-v2
+  - jemoji
+  - font-awesome-sass
 
 pagination:
   enabled: true
@@ -32,13 +35,9 @@ disqus_site_shortname: "nandothemes"
 author:
   name: Matías Mattamala
   job: roboticist
-  interests: legged robots and perception
-  bio: "**News:** I'm back in Oxford, to work in the last project of my PhD! I expect to graduate before September 2023.
-      <br><br>
-      I'm a final year PhD (DPhil) student in the [**Dynamic Robot Systems Group (DRS)**](https://ori.ox.ac.uk/labs/drs/) of the [**Oxford Robotics Institute**](https://ori.ox.ac.uk/), supervised by [**Prof. Maurice Fallon**](https://ori.ox.ac.uk/people/maurice-fallon/). I'm working on long-term visual navigation for legged robots.
-      <br><br>
-      From April to September 2022 I was a visiting researcher at the [**Robotic Systems Lab**](https://rsl.ethz.ch) at ETH Zurich under Prof. Marco Hutter.
-      Before the PhD, I did my master in visual-proprioceptive SLAM in the [**UChile Robotics Lab**](https://uchile-robotics.github.io) led by [**Prof. Javier Ruiz-del-Solar**](http://www.cec.uchile.cl/~jruizd/)."
+  interests: the interaction of perception and control in robotics
+  bio: "I'm a final-year PhD (DPhil) student in the [**Dynamic Robot Systems Group (DRS)**](https://ori.ox.ac.uk/labs/drs/) of the [**Oxford Robotics Institute**](https://ori.ox.ac.uk/), supervised by [**Maurice Fallon**](https://ori.ox.ac.uk/people/maurice-fallon/)." 
+  news: "**News:** After 6 months at ETH Zurich, I'm back in Oxford for the last project of my PhD. I expect to graduate before September 2023."
        
 
   thumb: /images/mm2019.jpg
@@ -51,15 +50,16 @@ author:
   researchgate: https://www.researchgate.net/profile/Matias_Mattamala
   arxiv: https://instagram.com/mmattamala
   twitter: https://twitter.com/mmattamala
+  mastodon: https://mastodon.social/@mmattamala/
   cv_link: data/mm_cv_en.pdf
 
 # navbar pages
 navbar:
-  # slug: about
-  #  title: About
-  #- slug: icons
-  #  title: Icons
-  #- slug: blog
-  #  title: Blog
+  - slug: about
+    title: about
+  - slug: publications
+    title: publications
+  - slug: blog
+    title: blog
 
 exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
