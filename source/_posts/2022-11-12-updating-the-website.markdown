@@ -2,7 +2,7 @@
 layout: post
 title:  "Updating the website"
 date:   2022-11-12 23:36:00
-comments: false
+comments: true
 image: 
 categories: blog personal english
 ---

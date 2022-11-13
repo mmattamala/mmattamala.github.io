@@ -1,6 +1,9 @@
 # Build settings
 permalink: /blog/:year/:title/
 markdown: kramdown
+kramdown:
+  math_engine: mathjax
+
 highlighter: pygments
 plugins: 
   - jekyll-paginate-v2
