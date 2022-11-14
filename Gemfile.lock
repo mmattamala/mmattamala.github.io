@@ -36,14 +36,14 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-compose (0.9.0)
       jekyll (~> 3.0)
+    jekyll-diagrams (0.4.2)
+      jekyll (~> 3.6)
     jekyll-feed (0.11.0)
       jekyll (~> 3.3)
     jekyll-paginate-v2 (3.0.0)
       jekyll (>= 3.0, < 5.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
-    jekyll-toc (0.13.0)
-      nokogiri (~> 1.9)
     jekyll-watch (1.5.1)
       listen (~> 3.0)
     jemoji (0.12.0)
@@ -92,9 +92,9 @@ DEPENDENCIES
   font-awesome-sass (~> 5.8.0)
   jekyll (~> 3.6.0)
   jekyll-compose
+  jekyll-diagrams
   jekyll-feed (~> 0.6)
   jekyll-paginate-v2
-  jekyll-toc
   jemoji
   json (~> 2)
   kramdown

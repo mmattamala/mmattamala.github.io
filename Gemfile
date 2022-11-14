@@ -30,3 +30,5 @@ group :jekyll_plugins do
   gem 'font-awesome-sass', '~> 5.8.0'
   gem 'jemoji'
 end
+
+# Don't forget to 'bundle install' after changing stuff here!
