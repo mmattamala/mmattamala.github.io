@@ -65,5 +65,7 @@ navbar:
     title: publications
   - slug: blog
     title: blog
+  - slug: fun
+    title: fun
 
 exclude: ["config.rb", "src", "Gemfile", "Gemfile.lock", "package.json","README.md", "Rakefile"]
