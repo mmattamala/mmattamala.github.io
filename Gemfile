@@ -12,7 +12,7 @@ gem "jekyll", "~>3.6.0"
 gem "rake", "~>10.5"
 gem "sass", "~>3.4"
 gem "json", "~> 2"
-gem 'font-awesome-sass', '~> 5.8.0'
+gem "font-awesome-sass", "~> 5.8.0"
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -27,8 +27,10 @@ group :jekyll_plugins do
   gem "pygments.rb"
   gem "jekyll-compose"
   gem "kramdown"
-  gem 'font-awesome-sass', '~> 5.8.0'
-  gem 'jemoji'
+  gem "font-awesome-sass", "~> 5.8.0"
+  gem "jemoji"
+  gem "jekyll-diagrams"
+  gem "jekyll-mermaid"
 end
 
 # Don't forget to 'bundle install' after changing stuff here!

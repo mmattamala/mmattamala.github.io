@@ -12,7 +12,7 @@ Before the PhD, I did my master in visual-proprioceptive SLAM in the [Robotics L
 
 My research expertise is on robot perception, mainly with cameras, as well as state estimation. Recently I'm also exploring planning and learning-based methods. I'm generally interested in the design and development of closed-loop systems (perception-action loop), as well as the mathematical fundamentals of robotics. 
 
-Last but not least, I'm from Chile, the long and thin country in South America (not the spicy thing). That means I also speak Spanish,  you can find my description below.
+Last but not least, I'm from Chile, the long and thin country in South America (not the spicy thing). That means I also speak Spanish, you can find my description below.
 
 &nbsp;
 &nbsp;

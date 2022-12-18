@@ -1,13 +1,16 @@
 ---
 layout: post
-title:  "Consejos para postular a un doctorado/PhD - Preguntas preliminares"
+title:  "Notas para postular a doctorados - Preparativos parte 2"
 date:   3022-11-18 08:39:18 -0800
-comments: true
+comments: false
 image: 
 categories: blog personal spanish espanol phd doctorado
 ---
 
 > :sparkles: Última actualización: 16/11/2022
+
+1. TOC
+{:toc}
 
 ### Research statement / motivation letter
 No tan especifico
@@ -24,6 +27,25 @@ Cuando uno postula a universidades como estas, en algún momento te pueden pregu
 
 De hecho, ese fue mi caso. Postulé a uno (Keble), porque estaba relacionado al laboratorio donde estaba postulando. Y me rechazaron. Pero en la práctica no importó, porque si tienes una oferta de doctorado algún college te va a ofrecer una posición. Al final el college que me aceptó (Hertford) es muy agradable, si bien es pequeño está en una buena ubicación, y la gente es muy simpática. Al final el college es una instancia más social, para conocer gente de otras disciplinas, el contrario de tu laboratorio/departamento, en que tienes gente que estudia lo mismo que tu, pero de otros colleges.
 
+### Hacer efectiva tu postulación
+Lo que vimos anteriormente es lo mínimo, pero no te asegura nada. 
+
+#### Suerte
+Primero, asume que una parte importante es suerte.
+
+#### Contacta a tus potenciales supervisores
+Si tu profe guia en chile es un contacto, usalo
+Si tienes plata, anda a visitarlos
+Si no tienes (como yo) manda mails
+Ve a conferencias
+
+#### Hazte una página web 
+Hazte encontrable
+Usa google analytics
+
+#### Publicaciones y notas
+Si tienes, bien
+Si no, reevalúa dependiendo del area
 
 ---
 ## Notas al pie

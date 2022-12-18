@@ -1,13 +1,16 @@
 ---
 layout: post
-title:  "Consejos para postular a un doctorado/PhD - Preguntas preliminares"
+title:  "Notas para postular a doctorados - Preparativos parte 1"
 date:   3022-11-17 08:39:18 -0800
-comments: true
+comments: false
 image: 
 categories: blog personal spanish espanol phd doctorado
 ---
 
 > :sparkles: Última actualización: 15/11/2022
+
+1. TOC
+{:toc}
 
 ## Antes de postular
 

@@ -10,11 +10,15 @@ plugins:
   - jekyll-paginate-v2
   - jemoji
   - font-awesome-sass
+  - jekyll-diagrams
+  - jekyll-mermaid
 
 pagination:
   enabled: true
   per_page: 3
   permalink: "/page/:num/"
+  sort_field: 'date'
+  sort_reverse: true
 comments: true
 
 source: source
@@ -39,7 +43,7 @@ disqus_site_shortname: "mmattamala"
 author:
   name: Matías Mattamala
   job: roboticist
-  interests: perception and control for robotics
+  interests: perception and decision-making for real-world robots.
   bio: "I'm a final-year PhD (DPhil) student in the [**Dynamic Robot Systems Group (DRS)**](https://ori.ox.ac.uk/labs/drs/), working on visual navigation for legged robots in challenging environments." 
   news: "**News:** After 6 months at ETH Zurich, I'm back in Oxford for the last project of my PhD. I expect to graduate before September 2023."
        

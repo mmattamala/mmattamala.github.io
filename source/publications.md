@@ -9,7 +9,7 @@ This will be updated. In the meantime, you can check my [Google Scholar](https:/
 &nbsp;
 
 ## Other writing
-You may also be interested in other writing I've done.
+You might also be interested in:
 - [My blog](/blog), where I write about random things, technical and not, in English and Spanish.
 - My tutorial on uncertainty handling in state estimation problems, _Reducing the uncertainty about the uncertainties_, posted in [gtsam.org](https://gtsam.org):
   - [Part 1: Linear and nonlinear](https://gtsam.org/2021/02/23/uncertainties-part1.html)
