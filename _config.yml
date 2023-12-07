@@ -30,11 +30,13 @@ sass:
 # SEO settings
 title: Matías Mattamala's website
 description: "Personal website"
-keywords: "Matías Mattamala, Matías, Mattamala, robotics, perception, legged robots, computer vision, state estimation, SLAM"
+keywords: "Matías Mattamala, Matías, Mattamala, robotics, perception, legged robots, computer vision, state estimation, SLAM, navigation"
 url: http://mmattamala.github.io
 baseurl: ""
 
-google_analytics: UA-126017634-1
+# google_analytics: UA-126017634-1
+# google_analytics: G-STLML2SPMS # mattmatta
+google_analytics: G-K0YVZTFTRV
 repo: http://github.com/mmattamala/mmattamala.github.io
 disqus_shortname: "matiasmattamala"
 disqus_site_shortname: "mmattamala"
@@ -43,9 +45,9 @@ disqus_site_shortname: "mmattamala"
 author:
   name: Matías Mattamala
   job: roboticist
-  interests: perception and decision-making for real-world robots.
-  bio: "I'm a final-year PhD (DPhil) student in the [**Dynamic Robot Systems Group (DRS)**](https://ori.ox.ac.uk/labs/drs/), working on visual navigation for legged robots in challenging environments." 
-  news: "**News:** After 6 months at ETH Zurich, I'm back in Oxford for the last project of my PhD. I expect to graduate before September 2023."
+  interests: robot perception and navigation
+  bio: "I'm also a Postdoctoral Researcher in the [**Dynamic Robot Systems Group (DRS)**](https://ori.ox.ac.uk/labs/drs/), enabling robots to achieve autonomous surveying and monitoring missions in the wild." 
+  news: "**News:** I defended my PhD thesis last November 17th 2023!"
        
 
   thumb: /images/mm2019.jpg

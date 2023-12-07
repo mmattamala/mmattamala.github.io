@@ -15,6 +15,7 @@ Este primer post es meramente introductorio para hacer aclaraciones y contextual
 
 1. TOC
 {:toc}
+&nbsp;
 
 ### Grados académicos
 El doctorado es un grado académico así que partiremos con eso. Un grado académico en general acredita que adquiriste conocimientos y competencias pertinentes al grado, en una universidad. Los otros grados académicos son la **licenciatura** y el **magíster** (nombres chilenos). En general, se espera que uno adquiera grados académicos _superiores_ siguiendo el camino definido por el [proceso de Bolonia](https://es.wikipedia.org/wiki/T%C3%ADtulo_académico):
@@ -71,9 +72,9 @@ Para un PhD en general se requiere un magíster para poder postular (aunque hay 
 
 El doctorado es principalmente una experiencia de investigación en un tema específico. En robótica y otras áreas científico-tecnológicas puede involucrar el desarrollo de sistemas, software o hardware, y explorar ideas que sean novedosas. La idea es que adquieras la experiencia para desarollar investigación, analizar problemas y proponer soluciones _innovadoras_.
 
-Un doctorado puede incluir cursos -con clases y exámenes- o puede ser solamente investigación, como en mi caso. Por lo mismo, en muchas partes un doctorado no es distinto a un trabajo: ir día a día a la oficina/laboratorio a estudiar cosas por tu cuenta, hacer experimentos, analizar datos, diseñar cosas, implementarlas, etc. De hecho, hay universidades en que se te considera un/a trabajador/a de la universidad y recibes un sueldo por ello; en otras universidades eres más parecido a un/a estudiante y tienes una beca. Esto depende mucho del país, lo discuto en uno de los próximos posts.
+Un doctorado puede incluir cursos -con clases y exámenes- o puede ser solamente investigación, como en mi caso. Por lo mismo, un doctorado no es distinto a un trabajo _tradicional_: ir día a día a la oficina/laboratorio a estudiar cosas por tu cuenta, hacer experimentos, analizar datos, diseñar cosas, implementarlas, etc. Debido a esto hay universidades en que tienes contrato y recibes un sueldo; en otras universidades eres más parecido a un/a estudiante y tienes una beca. Esto depende mucho del país y lo discuto en uno de los próximos posts, pero en cualquier caso un doctorado es un trabajo que te dará experiencia como cualquier otro.
 
-Debido a lo anterior, un doctorado es mucho más largo que un magíster: de 3 años para los más cortos, hasta 10 en algunos casos. Esto depende del país, la universidad, cómo está estructurado el programa, y el financiamiento. EL siguiente diagrama resume la mayoría de los programas:
+Debido a lo anterior, un doctorado es mucho más largo que un magíster: de 3 años para los más cortos, hasta 10 en algunos casos. Esto depende del país, la universidad, cómo está estructurado el programa, y el financiamiento. El siguiente diagrama resume la mayoría de los programas:
 
 $$
 \text{Año 1-2: cursos o investigación preliminar}\\
