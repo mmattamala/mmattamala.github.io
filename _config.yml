@@ -47,7 +47,7 @@ author:
   job: roboticist
   interests: robot perception and navigation
   bio: "I'm also a Postdoctoral Researcher in the [**Dynamic Robot Systems Group (DRS)**](https://ori.ox.ac.uk/labs/drs/), enabling robots to achieve autonomous surveying and monitoring missions in the wild." 
-  news: "**News:** I defended my PhD thesis last November 17th 2023!"
+  news: "**News:** We have 4 papers in ICRA this year: [language-enhanced visual SLAM](https://arxiv.org/abs/2309.15065) by Christina Kassab, [large-scale NeRF reconstruction](https://arxiv.org/abs/2403.06877) by Yifu Tao, [tree traits estimation](https://ora.ox.ac.uk/objects/uuid:d29224bc-f133-484f-b8eb-f99fb34b6eb3/files/sx920fz468) by Meher Malladi, and [robust legged navigation](https://arxiv.org/abs/2310.03581) by Jin Jin and Chong Zhang."
        
 
   thumb: /images/mm2019.jpg

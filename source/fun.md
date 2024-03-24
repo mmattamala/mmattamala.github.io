@@ -4,14 +4,14 @@ title: Fun stuff
 permalink: /fun/
 ---
 
-This is a collection of fun, interesting, or plainly random stuff I have been involved in. Mostly with robots.
+This is a collection of fun, interesting, or simply random stuff I have been involved in. Mostly with robots.
 
 ### 2022
 - December: The ANYmal robot ready for Christmas. [Twitter](https://twitter.com/mmattamala/status/1603903892336410624)
 - October: Crochet attempts of non-orientable manifolds. [Twitter](https://twitter.com/mmattamala/status/1584239724373626880)
 
 ### 2021
-- November: I found a mug of the Chilean football team "Colo-Colo" in the kitchen of the Oxford Robotics Institute. One of the most unexpected things I've experienced there so far. [Twitter](https://twitter.com/mmattamala/status/1458833035231694848)
+- November: I found a mug of the Chilean football team "Colo-Colo" in the kitchen of the Oxford Robotics Institute. One of the most unexpected things I experienced there so far. [Twitter](https://twitter.com/mmattamala/status/1458833035231694848)
 - October: My colleague David Rytz and I designed a classy, robot-inspired English painting for our former office, supported by some style-transfer and superresolution deep learning: [Twitter](https://twitter.com/mmattamala/status/1448991258404339742)
 - June: We did some field trials with the quadruped robots in a mine near Bath. I took a chance to make some analog shots. [Twitter](https://twitter.com/mmattamala/status/1400575395309649922)
 - March: I was the team lead organizing the CDT Challenge on autonomous exploration at Oxford. It was during COVID, so everything was online, but the teams succeeded in making simulated Jackal robots explore the environment and find interesting objects, like Clifford the dog! [Twitter](https://twitter.com/mmattamala/status/1377680566452109312)
