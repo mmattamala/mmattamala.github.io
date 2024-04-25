@@ -30,7 +30,7 @@ sass:
 # SEO settings
 title: Matías Mattamala's website
 description: "Personal website"
-keywords: "Matías Mattamala, Matías, Mattamala, robotics, perception, legged robots, computer vision, state estimation, SLAM, navigation"
+keywords: "Matías Mattamala, Matías, Mattamala, robotics, perception, legged robots, computer vision, state estimation, SLAM, navigation, field robotics, remote sensing"
 url: http://mmattamala.github.io
 baseurl: ""
 
@@ -50,7 +50,7 @@ author:
   news: "**News:** We have 4 papers in ICRA this year: [language-enhanced visual SLAM](https://arxiv.org/abs/2309.15065) by Christina Kassab, [large-scale NeRF reconstruction](https://arxiv.org/abs/2403.06877) by Yifu Tao, [tree traits estimation](https://ora.ox.ac.uk/objects/uuid:d29224bc-f133-484f-b8eb-f99fb34b6eb3/files/sx920fz468) by Meher Malladi, and [robust legged navigation](https://arxiv.org/abs/2310.03581) by Jin Jin and Chong Zhang."
        
 
-  thumb: /images/mm2019.jpg
+  thumb: /images/mm2024.jpg
   email: matias@robots.ox.ac.uk
   url: https://mmattamala.github.io/
   github: https://github.com/mmattamala
