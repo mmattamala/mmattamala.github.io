@@ -46,7 +46,14 @@ Access, [localhost:4000/end2end](http://localhost:4000/end2end)
 ![end2end - free Jekyll theme](/screenshot.png)
 
 ---
+### Updating icons
 
+Upload the SVG file to https://icomoon.io/app/ to regenerate/add/remove icons
+
+Also update the [variables](source/_sass/_variables.sass) to associate the right key (from the SVG file)
+
+
+---
 ### Copyright and license
 
 It is under [the MIT license](/LICENSE).
