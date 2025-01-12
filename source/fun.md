@@ -6,6 +6,14 @@ permalink: /fun/
 
 This is a collection of fun, interesting, or simply random stuff I have been involved in. Mostly with robots.
 
+### 2024
+- November: I joined the efforts to write the SLAM Handbook led by Luca Carlone, Ayoung Kim, Frank Dellaert, Tim Barfoot, and Daniel Cremers. Marco Camurri and I wrote a chapter on leg odometry. The [first part is openly available for review](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release/blob/main/README.md), our chapter will appear in part 2.
+- February: I've been looking into designing LEGO models of robots I like. Bricklink Studio is very fun: [ANYmal C (DARPA edition)](https://x.com/mmattamala/status/1756466704899571719), mini [ANYmal D](https://x.com/mmattamala/status/1756666335231103406)
+
+### 2023
+- December: I was lucky to support the Oxford Robotics Institute team featured in the Royal Institution's [Christmas Lecture 2023 given by Mike Woolridge](https://www.bbc.co.uk/programmes/m001tv91). I did not appear on screen but I was hiding backstage.
+- Not much time for fun stuff: I was writing my thesis and passed my viva with Stefan Leutenegger and Ioannis Havoutis on November 17th! [Link](https://x.com/mmattamala/status/1725634112071909396/photo/1)
+
 ### 2022
 - December: The ANYmal robot ready for Christmas. [Twitter](https://twitter.com/mmattamala/status/1603903892336410624)
 - October: Crochet attempts of non-orientable manifolds. [Twitter](https://twitter.com/mmattamala/status/1584239724373626880)

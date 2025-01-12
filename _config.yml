@@ -45,9 +45,9 @@ disqus_site_shortname: "mmattamala"
 author:
   name: Matías Mattamala
   job: roboticist
-  interests: robot perception and navigation
-  bio: "I'm also a Postdoctoral Researcher in the [**Dynamic Robot Systems Group (DRS)**](https://ori.ox.ac.uk/labs/drs/), enabling robots to achieve autonomous surveying and monitoring missions in the wild." 
-  news: "**News:** We have 4 papers in ICRA this year: [language-enhanced visual SLAM](https://arxiv.org/abs/2309.15065) by Christina Kassab, [large-scale NeRF reconstruction](https://arxiv.org/abs/2403.06877) by Yifu Tao, [tree traits estimation](https://ora.ox.ac.uk/objects/uuid:d29224bc-f133-484f-b8eb-f99fb34b6eb3/files/sx920fz468) by Meher Malladi, and [robust legged navigation](https://arxiv.org/abs/2310.03581) by Jin Jin and Chong Zhang."
+  interests: foundations and systems for autonomy
+  bio: "I'm currently a Postdoctoral Researcher in the [**Dynamic Robot Systems Group (DRS)**](https://ori.ox.ac.uk/labs/drs/). I'm doing research on robot navigation and mapping using vision, geometry, and language." 
+  news: "**News:** I've joined the efforts to write SLAM Handbook led by Luca Carlone, Ayoung Kim, Frank Dellaert, Tim Barfoot, and Daniel Cremers. Marco Camurri and I wrote a chapter on leg odometry. The [first part is available for comments](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release/blob/main/README.md), our chapter will appear in part 2."
        
 
   thumb: /images/mm2024.jpg
@@ -60,8 +60,9 @@ author:
   researchgate: https://www.researchgate.net/profile/Matias_Mattamala
   arxiv: https://instagram.com/mmattamala
   twitter: https://twitter.com/mmattamala
+  bluesky: https://bsky.app/profile/mmattamala.bsky.social
   mastodon: https://mastodon.social/@mmattamala/
-  cv_link: data/mm_cv_en.pdf
+  cv_link: data/mm_cv.pdf
 
 # navbar pages
 navbar:
