@@ -47,7 +47,7 @@ author:
   job: roboticist
   interests: foundations and systems for autonomy
   bio: "I'm currently a Postdoctoral Researcher in the [**Dynamic Robot Systems Group (DRS)**](https://ori.ox.ac.uk/labs/drs/). I'm doing research on robot navigation and mapping using vision, geometry, and language." 
-  news: "**News:** I've joined the efforts to write SLAM Handbook led by Luca Carlone, Ayoung Kim, Frank Dellaert, Tim Barfoot, and Daniel Cremers. Marco Camurri and I wrote a chapter on leg odometry. The [first part is available for comments](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release/blob/main/README.md), our chapter will appear in part 2."
+  news: "**News:** Jianeng Wang's paper in collaboration with [Wandercraft](https://en.wandercraft.eu) has been published in IEEE Robotics and Automation Letters (RA-L). Paper and video in the [project website](https://dynamic.robots.ox.ac.uk/projects/exosense/)."
        
 
   thumb: /images/mm2024.jpg
