@@ -4,7 +4,9 @@ title: About me
 permalink: /about/
 ---
 
-I'm a Postdoctoral Researcher at the [**Dynamic Robot Systems Group (DRS)**](https://ori.ox.ac.uk/labs/drs/) of the [**Oxford Robotics Institute**](https://ori.ox.ac.uk/), enabling robots to achieve autonomous surveying and monitoring missions in the wild.
+Since June 2025, I'm a Research Associate at the new **Centre for AI in Assistive Autonomy**, based in the School of Informatics, University of Edinburgh. I'm developing robotic systems to interact with humans in assistive settings.
+
+Before, I was a Postdoctoral Researcher (September 2023 - May 2025) at the [**Dynamic Robot Systems Group (DRS)**](https://ori.ox.ac.uk/labs/drs/) of the [**Oxford Robotics Institute**](https://ori.ox.ac.uk/), enabling robots to achieve autonomous surveying and monitoring missions in the wild.
 
 Between October 2019 and November 2023 I was a PhD student in DRS, working on visual navigation for legged robots in challenging environments. I was supervised by [**Maurice Fallon**](https://ori.ox.ac.uk/people/maurice-fallon/), and my thesis was examined by [**Stefan Leutenegger**](https://www.professoren.tum.de/en/leutenegger-stefan) (Technical University of Munich) and  [**Ioannis Havoutis**](https://ihavoutis.github.io) (University of Oxford).
 
@@ -21,7 +23,9 @@ Last but not least, I'm from Chile, the long and thin country in South America (
 
 ### (Version en español)
 
-Soy Investigador Postdoctoral en el [**Dynamic Robot Systems Group (DRS)**](https://ori.ox.ac.uk/labs/drs/) del [**Oxford Robotics Institute**](https://ori.ox.ac.uk/), desarrollando sistemas para que robots puedan recolectar datos y monitorear entornos naturales de forma autónoma.
+Desde Junio 2025, soy _Research Associate_ en el **Centre for AI in Assistive Autonomy**, ubicado en la School of Informatics, University of Edinburgh. Estoy desarrollando sistemas robóticos para interactuar con humanos/as en problemas de asistencia (por ejemplo, alimentar gente con mobilidad reducida).
+
+Anteriormente, fui Investigador Postdoctoral (Septiembre 2023 - Mayo 2025) en el [**Dynamic Robot Systems Group (DRS)**](https://ori.ox.ac.uk/labs/drs/) del [**Oxford Robotics Institute**](https://ori.ox.ac.uk/), desarrollando sistemas para que robots puedan recolectar datos y monitorear entornos naturales de forma autónoma.
 
 Entre Octubre 2019 y Noviembre 2023 fui estudiante de doctorado en DRS, trabajando en navegación visual para robots cuadrúpedos en entornos complejos. Fui supervisado por [**Maurice Fallon**](https://ori.ox.ac.uk/people/maurice-fallon/), y mi tesis fue examinada por [**Stefan Leutenegger**](https://www.professoren.tum.de/en/leutenegger-stefan) (Universidad Técnica de Múnich) and  [**Ioannis Havoutis**](https://ihavoutis.github.io) (Universidad de Oxford).
 

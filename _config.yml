@@ -46,8 +46,8 @@ author:
   name: Matías Mattamala
   job: roboticist
   interests: foundations and systems for autonomy
-  bio: "I'm currently a Postdoctoral Researcher in the [**Dynamic Robot Systems Group (DRS)**](https://ori.ox.ac.uk/labs/drs/). I'm doing research on robot navigation and mapping using vision, geometry, and language." 
-  news: "**News:** Jianeng Wang's paper in collaboration with [Wandercraft](https://en.wandercraft.eu) has been published in IEEE Robotics and Automation Letters (RA-L). Paper and video in the [project website](https://dynamic.robots.ox.ac.uk/projects/exosense/)."
+  bio: "I'm currently a Research Associate in the **Centre for AI in Assistive Autonomy**, School of Informatics, University of Edinburgh. I'm researching robotic systems for assistive applications." 
+  news: "**News:** I've been invited as a speaker to the [International Workshop of Intelligent Autonomous Learning Systems 2025](https://www.ias.informatik.tu-darmstadt.de/Workshops/IWIALS). I gave a spotlight talk on my recent research on robot autonomy (e.g., our new [T-FR](https://ieeexplore.ieee.org/document/11053872)), as well as a tutorial on [designing graphics for papers](https://docs.google.com/presentation/d/161ckSI_LVptLwFSiT3hCMhK-5gGf_vDdwmTOq54YRF8/edit?usp=drive_web&ouid=112051573251406531065)."
        
 
   thumb: /images/mm2024.jpg
@@ -55,14 +55,14 @@ author:
   url: https://mmattamala.github.io/
   github: https://github.com/mmattamala
   linkedin: https://linkedin.com/in/mmattamala
-  google_scholar: https://scholar.google.co.uk/citations?hl=en&user=R5aRkHUAAAAJ&view_op=list_works&authuser=1&sortby=pubdate
+  google_scholar: https://scholar.google.co.uk/citations?hl=en&user=WYijA64AAAAJ&view_op=list_works&sortby=pubdate
   instagram: https://instagram.com/mmattamala
   researchgate: https://www.researchgate.net/profile/Matias_Mattamala
   arxiv: https://instagram.com/mmattamala
   twitter: https://twitter.com/mmattamala
   bluesky: https://bsky.app/profile/mmattamala.bsky.social
   mastodon: https://mastodon.social/@mmattamala/
-  cv_link: data/mm_cv.pdf
+  cv_link: /data/mm_cv.pdf
 
 # navbar pages
 navbar:
