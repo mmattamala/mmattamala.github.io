@@ -1,0 +1,502 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matías Mattamala's website</title>
+    <description>Personal website</description>
+    <link>http://mmattamala.github.io/</link>
+    <atom:link href="http://mmattamala.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 21 Aug 2025 11:02:09 +0100</pubDate>
+    <lastBuildDate>Thu, 21 Aug 2025 11:02:09 +0100</lastBuildDate>
+    <generator>Jekyll v3.6.3</generator>
+    
+      <item>
+        <title>Notas para postular a doctorados - Dónde postular?</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;:sparkles: Última actualización: 19/02/2023&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;En este post vamos a discutir cómo elegir dónde hacer un doctorado, basado en 3 criterios me comentaron cuando estaba postulando: destinos, instituciones y grupos de investigación. Además vamos a discutir algunos pro y contra de destinos “típicos” (bastante subjetivos y basados en mi experiencia o comentarios de otras personas).&lt;/p&gt;
+
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#criterio-1-quiero-vivir-en-x-ciudad-destinos&quot; id=&quot;markdown-toc-criterio-1-quiero-vivir-en-x-ciudad-destinos&quot;&gt;Criterio 1: Quiero vivir en X ciudad: destinos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#criterio-2-quiero-estudiar-en-x-universidad-instituciones&quot; id=&quot;markdown-toc-criterio-2-quiero-estudiar-en-x-universidad-instituciones&quot;&gt;Criterio 2: Quiero estudiar en X universidad: instituciones&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#criterio-3-quiero-trabajar-con-x-persona-grupos-de-investigación&quot; id=&quot;markdown-toc-criterio-3-quiero-trabajar-con-x-persona-grupos-de-investigación&quot;&gt;Criterio 3: Quiero trabajar con X persona: grupos de investigación&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#doctorado-en-chile&quot; id=&quot;markdown-toc-doctorado-en-chile&quot;&gt;Doctorado en Chile&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#doctorado-en-el-extranjero-general&quot; id=&quot;markdown-toc-doctorado-en-el-extranjero-general&quot;&gt;Doctorado en el extranjero (general)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#doctorado-en-reino-unido-uk&quot; id=&quot;markdown-toc-doctorado-en-reino-unido-uk&quot;&gt;Doctorado en Reino Unido (UK)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#doctorado-en-europa-excluyendo-uk&quot; id=&quot;markdown-toc-doctorado-en-europa-excluyendo-uk&quot;&gt;Doctorado en Europa (excluyendo UK)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#doctorado-en-estados-unidos&quot; id=&quot;markdown-toc-doctorado-en-estados-unidos&quot;&gt;Doctorado en Estados Unidos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#doctorado-en-otros-países&quot; id=&quot;markdown-toc-doctorado-en-otros-países&quot;&gt;Doctorado en otros países&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#notas-al-pie&quot; id=&quot;markdown-toc-notas-al-pie&quot;&gt;Notas al pie&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;criterio-1-quiero-vivir-en-x-ciudad-destinos&quot;&gt;Criterio 1: Quiero vivir en X ciudad: destinos&lt;/h3&gt;
+
+&lt;h3 id=&quot;criterio-2-quiero-estudiar-en-x-universidad-instituciones&quot;&gt;Criterio 2: Quiero estudiar en X universidad: instituciones&lt;/h3&gt;
+
+&lt;h3 id=&quot;criterio-3-quiero-trabajar-con-x-persona-grupos-de-investigación&quot;&gt;Criterio 3: Quiero trabajar con X persona: grupos de investigación&lt;/h3&gt;
+
+&lt;h3 id=&quot;doctorado-en-chile&quot;&gt;Doctorado en Chile&lt;/h3&gt;
+&lt;p&gt;El doctorado en Chile es aproximadamente 4 años. En la práctica pueden durar más, pero en la mayoría de los casos están restringidos por el &lt;a href=&quot;https://ayuda.anid.cl/hc/es/articles/4410561232148--Qué-beneficios-contempla-mi-beca-de-Doctorado-Nacional-&quot;&gt;financiamiento de las becas&lt;/a&gt; ANID&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ventajas&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Estás en Chile, así que estás relativamente cerca de familia y amigos.&lt;/li&gt;
+  &lt;li&gt;Misma cultura, misma vida que probablemente llevabas a la fecha.&lt;/li&gt;
+  &lt;li&gt;Al contrario de tu vida como estudiante de magíster o pregrado, recibes un sueldo/beca.&lt;/li&gt;
+  &lt;li&gt;Si estás becado por ANID, una vez que finalices el doctorado puedes trabajar en el extranjero.&lt;/li&gt;
+  &lt;li&gt;ANID también ofrece financiamiento para visitar de investigación durante el doctorado.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Desventajas&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Muy probablemente necesitas el financiamiento de ANID, porque los fondos de proyectos en Chile no son suficientes para financiar un/a estudiante de doctorado.&lt;/li&gt;
+  &lt;li&gt;El sueldo de ANID no es comparable al que podrías tener como ingeniera/o en la industria.&lt;/li&gt;
+  &lt;li&gt;El prestigio de una universidad en Chile puede ser menor que otras instituciones extranjeras.&lt;/li&gt;
+  &lt;li&gt;Si te interesa la academia y postulas a universidades chilenas muy probablemente te pedirán hacer un postdoctorado en otro país.&lt;/li&gt;
+  &lt;li&gt;Podrías tener que tomar cursos en los primeros años del programa.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;doctorado-en-el-extranjero-general&quot;&gt;Doctorado en el extranjero (general)&lt;/h3&gt;
+&lt;p&gt;Esto va como resumen de cosas en común de estudiar en cualquier otro país:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Ventajas&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Puedes acceder a otras instituciones, más prestigiosas internacionalmente.&lt;/li&gt;
+  &lt;li&gt;Puedes acceder a grupos de investigación con más experiencia en el área que te interese, y con más recursos. Por ejemplo, robots caros en mi caso.&lt;/li&gt;
+  &lt;li&gt;Las redes de contacto son más amplias en países del hemisferio norte o Australia por ejemplo.&lt;/li&gt;
+  &lt;li&gt;Vivir en otro país es una experiencia rica (y compleja) más allá de los estudios.&lt;/li&gt;
+  &lt;li&gt;Podrías recibir un sueldo como trabajador/a, con seguridad social.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Desventajas&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Estás lejos de familia y amigos. Muy potencialmente sola/o, al menos al principio.&lt;/li&gt;
+  &lt;li&gt;Potencialmente necesitas aprender otro idioma. En países que no hablan inglés, podrías necesitar también manejar la lengua nativa para socializar con locales.&lt;/li&gt;
+  &lt;li&gt;Las diferencias culturales también pueden ser complejas y distintas a lo que estás acostumbrada/o.&lt;/li&gt;
+  &lt;li&gt;Si estudias con ANID (Becas Chile, como yo) tienes la restricción de volver para la retribución.&lt;/li&gt;
+  &lt;li&gt;Si bien puedes recibir un sueldo o beca, diría podría ser insuficiente para vivir en ciertas ciudades (e.g. Londres, Zurich).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;doctorado-en-reino-unido-uk&quot;&gt;Doctorado en Reino Unido (UK)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Ventajas&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Es fácil comunicarse una vez que sabes inglés.&lt;/li&gt;
+  &lt;li&gt;Hay universidades muy prestigiosas, y varias.&lt;/li&gt;
+  &lt;li&gt;Los doctorados duran de 3 a 4 años, y muchos no tienen cursos.&lt;/li&gt;
+  &lt;li&gt;Las universidades son bastante internacionales, y puedes conocer gente de muchas partes.&lt;/li&gt;
+  &lt;li&gt;Está en Europa, así que hay muchos países interesantes relativamente cerca.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Desventajas&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;En la mayoría de los programas eres considerado estudiante, no investigador/a.&lt;/li&gt;
+  &lt;li&gt;Los programas de doctorado son pagados. Y para estudiantes no británicas/os los aranceles&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; son mucho más altos que para nacionales.&lt;/li&gt;
+  &lt;li&gt;La mayoría de las posiciones de doctorado con financiamiento son para britanicas/os.&lt;/li&gt;
+  &lt;li&gt;Así, es (casi) imposible estudiar en UK sin Becas Chile, ya que cubre todos los costos del programa.&lt;/li&gt;
+  &lt;li&gt;Postular a los doctorados puede ser mucho más competitivo, especialmente en universidades en Londres, Oxford, o Cambridge.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;doctorado-en-europa-excluyendo-uk&quot;&gt;Doctorado en Europa (excluyendo UK)&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Ventajas&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Hay muchas universidades prestigiosas para distintas áreas.&lt;/li&gt;
+  &lt;li&gt;Europa es culturalmente variado, y todo queda muy cerca, así que es fácil explorar.&lt;/li&gt;
+  &lt;li&gt;La calidad de vida es mayor y las ciudades se sienten más “vivibles”: buen transporte o caminables, en general seguras.&lt;/li&gt;
+  &lt;li&gt;Más que estudiante de doctorado, en la mayoría de las universidades de Europa eres investigador/a.&lt;/li&gt;
+  &lt;li&gt;Eso implica que los programas no tienen aranceles (a veces sólo una pequeña matrícula anual)&lt;/li&gt;
+  &lt;li&gt;Y recibes un sueldo de trabajador/a, muchas veces del estado, con seguridad social y otros beneficios.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Desventajas&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Distintas culturas implican distintos idiomas, que podrías necesitar para desenvolverte en el día a día.&lt;/li&gt;
+  &lt;li&gt;Algunas universidades son más pequeñas o menos conocidas comparadas con otras de UK o Estados Unidos.&lt;/li&gt;
+  &lt;li&gt;El sueldo que recibas puede ún así ser limitado para vivir decentemente en el país (con excepción de Suiza, Bélgica y Holanda, que son los casos que conozco).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;doctorado-en-estados-unidos&quot;&gt;Doctorado en Estados Unidos&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Ventajas&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;También es fácil comunicarse una vez que sabes inglés.&lt;/li&gt;
+  &lt;li&gt;Hay muchas universidades y muy prestigiosas.&lt;/li&gt;
+  &lt;li&gt;Las universidades también son bastante internacionales.&lt;/li&gt;
+  &lt;li&gt;Si bien los programas igual se pagan, las posiciones pueden incluir financiamiento de parte de potenciales supervisores.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Desventajas&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Los doctorados duran de 4 años a muchos años.&lt;/li&gt;
+  &lt;li&gt;La mayoría de los programas consideran 1 o 2 años de cursos antes del examen de calificación.&lt;/li&gt;
+  &lt;li&gt;Tambien postular puede ser competitivo, ya que las postulaciones son generalmente centralizadas, y pasan varias etapas de selección.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;doctorado-en-otros-países&quot;&gt;Doctorado en otros países&lt;/h3&gt;
+
+&lt;p&gt;Sobre otros países para cursar doctorados – como Australia, España o Japón – desconozco los detalles así que no lo comentaré. Pero por supuesto puedes basarte en los tres principios que comenté arriba para hacer tu investigación.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;notas-al-pie&quot;&gt;Notas al pie&lt;/h2&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Agencia Nacional de Investigación y Desarrollo de Chile &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;&lt;em&gt;Fees&lt;/em&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 19 Feb 2023 08:00:01 +0000</pubDate>
+        <link>http://mmattamala.github.io/blog/2023/notas-phd-03-donde/</link>
+        <guid isPermaLink="true">http://mmattamala.github.io/blog/2023/notas-phd-03-donde/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>personal</category>
+        
+        <category>spanish</category>
+        
+        <category>espanol</category>
+        
+        <category>phd</category>
+        
+        <category>doctorado</category>
+        
+      </item>
+    
+      <item>
+        <title>Notas para postular a doctorados - Por qué hacer un doctorado?</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;:sparkles: Última actualización: 13/01/2023&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Esta pregunta es por supuesto la principal. Por supuesto mientras antes uno lo piense mejor, pero a veces es un proceso. Cuando entré a la universidad no entendía como la gente estudiaba tanto y “nunca ejercía lo que estudió” - y acá estoy 10 años después, cursando mi doctorado. Vamos a discutir algunas razones que podrían motivar a hacerlo o no.&lt;/p&gt;
+
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#razones-a-favor&quot; id=&quot;markdown-toc-razones-a-favor&quot;&gt;Razones a favor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#razones-en-contra&quot; id=&quot;markdown-toc-razones-en-contra&quot;&gt;Razones en contra&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ok-pero-entonces-sí-o-no-un-comentario-sobre-los-magíster&quot; id=&quot;markdown-toc-ok-pero-entonces-sí-o-no-un-comentario-sobre-los-magíster&quot;&gt;Ok, pero entonces sí o no? un comentario sobre los magíster&lt;/a&gt;    &lt;ol&gt;
+      &lt;li&gt;&lt;a href=&quot;#cuando-hacer-un-magíster-en-chile&quot; id=&quot;markdown-toc-cuando-hacer-un-magíster-en-chile&quot;&gt;Cuando hacer un magíster en Chile&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#cuando-hacer-un-magíster-en-el-extranjero&quot; id=&quot;markdown-toc-cuando-hacer-un-magíster-en-el-extranjero&quot;&gt;Cuando hacer un magíster en el extranjero&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#cuando-no-hacer-un-magíster-en-chile-ni-tampoco-en-el-extranjero&quot; id=&quot;markdown-toc-cuando-no-hacer-un-magíster-en-chile-ni-tampoco-en-el-extranjero&quot;&gt;Cuando NO hacer un magíster en Chile (ni tampoco en el extranjero)&lt;/a&gt;&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#notas-al-pie&quot; id=&quot;markdown-toc-notas-al-pie&quot;&gt;Notas al pie&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;razones-a-favor&quot;&gt;Razones a favor&lt;/h3&gt;
+&lt;p&gt;Cuando he hablado con gente me han contado distintas motivaciones. Creo que todas son válidas, pero no las compartiré acá. Sin embargo, puedo comentar las mías:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;La robótica que había hecho hasta la fecha era sobre mapeo y localización. Sin embargo, sentía que quería no solamente saber cómo un robot percibe y representa el entorno, pero también cómo usar esa información para controlar el robot.&lt;/li&gt;
+  &lt;li&gt;A la fecha había tenido experiencia principalmente con robots pequeños, como los humanoides NAO. Sin embargo, quería adquirir experiencia con otras plataformas, como los &lt;a href=&quot;https://www.youtube.com/watch?v=f_Pxbe3_hiM&quot;&gt;robots cuadrúpedos&lt;/a&gt; que se estaban haciendo famosos en ese tiempo.&lt;/li&gt;
+  &lt;li&gt;Por otro lado, no me llamaba la atención el trabajo que se hacía en las compañías en Chile. En ese sentido, para mi era más interesante trabajar en la universidad como académico, ya que también me gusta enseñar.&lt;/li&gt;
+  &lt;li&gt;Por último también quería vivir la experiencia de vivir y estudiar en otro país.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Así, me pareció que hacer un doctorado en el extranjero era la mejor opción, porque:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Me permitía especializarme en temas que ya no podía estudiar en Chile&lt;/li&gt;
+  &lt;li&gt;También trabajar con robots que tampoco tenía disponibles en Chile&lt;/li&gt;
+  &lt;li&gt;Tener este grado es necesario para hacer carrera académica
+Esas razones fueron suficientes para motivarme a hacerlo. Pero hay varias razones también que podían ser desmotivadoras.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;razones-en-contra&quot;&gt;Razones en contra&lt;/h3&gt;
+&lt;p&gt;Si bien en retrospectiva estoy conforme con mi decisión, no creo que sea un proceso apto para cualquier persona que tomarse a la ligera. Hay varias razones para NO hacer un doctorado:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;No te interesa aprender profundamente de un tema:&lt;/strong&gt; El doctorado se basa principalmente en eso. No tiene sentido dedicar tanto tiempo a estudiar para entender un problema específico o desarrollar cosas nuevas si no te motiva.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Alguien te dijo que deberías hacerlo:&lt;/strong&gt; Si nunca lo consideraste pero sabías que existían y de qué se trataban, no creo que tenga sentido hacerlo porque alguien te dijo que deberías.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;No estás dispuesta/o a vivir lejos de amigos y familia:&lt;/strong&gt; Esto sólo aplica a doctorados en el extranjero. Pero es un problema importante, ya que al menos son 3 años viviendo en otro país. Dependiendo del país también puede ser más difícil encontrar grupos de apoyo.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;No estás dispuesta/o a cambiar tu estilo de vida en Chile:&lt;/strong&gt; Relacionado al anterior, vivir en otro país va a implicar varios cambios, desde aspectos culturales por el idioma y sociedad, a cosas como acostumbrarse a que se oscurezca a las 4 de la tarde. Uno puede creer que estas cosas no son importantes, pero SÍ te afectan.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quieres tener una vida estable:&lt;/strong&gt; Siendo realistas, quizás tengas más estabilidad buscando un trabajo en una empresa y haciendo carrera ahí. Si bien un doctorado podría abrirte paso a mejores trabajos, probablemente sean todos en el extranjero. Si quieres hacer carrera académica, después del doctorado vienen post-doctorados, postulaciones a posiciones en universidades o compañías, etc. No es precisamente estabilidad, sino harta incertidumbre.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quieres tener un buen sueldo:&lt;/strong&gt; Los sueldos o becas de doctorado suelen ser inferiores al sueldo de una ingeniera/o en distintos países. Por supuesto si haces un doctorado en ciencias de la computación y consigues un trabajo en Google o Meta después, vas a tener un sueldo mucho mayor. Pero estás postergando la decisión por al menos 3 años, aún teniendo la incertidumbre de conseguir esa posición después.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Quieres darte la vida Europea que mereces:&lt;/strong&gt; A menos que estés en un programa en Suiza o un país que tenga altos sueldos para doctorados, la vida no va a ser tan glamorosa como se pinta. Hay una sobre-romantización de la vida en otros países. Si bien hay cosas que funcionan mejor que en Chile, las ciudades pueden ser más &lt;em&gt;seguras&lt;/em&gt;, o la movilidad ser mucho mejor, viviendo con becas podría no alcanzarte para darte esa gran vida. Y estas grandes ciudades también tienen problemas dependiendo de donde vivas.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;ok-pero-entonces-sí-o-no-un-comentario-sobre-los-magíster&quot;&gt;Ok, pero entonces sí o no? un comentario sobre los magíster&lt;/h3&gt;
+&lt;p&gt;Obviamente hacer un doctorado o no finalmente depende de cada persona y algunas de las razones anteriores. Hay otros factores que no discuto acá que aparecen naturalmente en los siguientes posts. La decisión por supuesto depende también de qué etapa te encuentras en tus estudios/carrera profesional y del área que te interese seguir.&lt;/p&gt;
+
+&lt;p&gt;A pesar de esto, hacer un doctorado &lt;strong&gt;requiere&lt;/strong&gt; tener el grado de magíster. Esto es una excelente etapa intermedia antes de decidirse por un doctorado, que puede darte una idea general de algunos de los puntos que mencionaba anteriormente. Desde cosas básicas como vivir en el extranjero por un tiempo más acotado, a tener una experiencia de investigación antes del doctorado.&lt;/p&gt;
+
+&lt;p&gt;Los magíster también vienen con una decisión pero es más mucho simple: En Chile o el extranjero. Para este caso tengo reglas muy simples, absolutamente subjetivas, que creo pueden orientar esta decisión:&lt;/p&gt;
+
+&lt;h4 id=&quot;cuando-hacer-un-magíster-en-chile&quot;&gt;Cuando hacer un magíster en Chile&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;Si estás segura/o que quieres hacer un doctorado en el extranjero.&lt;/li&gt;
+  &lt;li&gt;Si tus notas de pregrado no son excelentes.&lt;/li&gt;
+  &lt;li&gt;Si quieres tener una oportunidad de hacer trabajo de investigación y publicar algún paper.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Este fue mi caso: Quería estudiar en el extranjero pero mis notas en pregrado no fueron destacables (bastante promedio diría yo). Eso iba a hacer mi postulación a un magíster en el extranjero mucho más difícil (porque muy probablemente la selección se basa en tus notas de pregrado &lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;). Así, hacer el magíster en Chile me daba la opción de hacer trabajos de investigación más serios y tratar de publicar un paper con mi trabajo de tesis que hiciera más competitiva mi postulación a doctorados.&lt;/p&gt;
+
+&lt;h4 id=&quot;cuando-hacer-un-magíster-en-el-extranjero&quot;&gt;Cuando hacer un magíster en el extranjero&lt;/h4&gt;
+&lt;ol&gt;
+  &lt;li&gt;Si tienes buenas notas o experiencia que te hagan competitiva/o para postular.&lt;/li&gt;
+  &lt;li&gt;Si no estás segura/o de hacer un doctorado, pero quieres tener la experiencia de estudiar en otro país.&lt;/li&gt;
+  &lt;li&gt;Si quieres especializarte en un tema más específico que no se puede encontrar en Chile.&lt;/li&gt;
+  &lt;li&gt;Si quieres mejorar las probabilidades de ser aceptada/o en un programa de doctorado en una universidad famosa.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Como mencioné anteriormente, esta opción sólo funciona si tienes buenas notas o experiencia. Postular a un magíster en el extranjero puede ser mucho más competitivo que un doctorado, especialmente en universidades destacadas, donde miles de personas postulan cada año. Pero si es tu caso, creo que es absolutamente recomendable, ya que te abrirá muchas oportunidades.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Un comentario acá: Durante el 2022 tuve la oportunidad de hacer una pasantía en un laboratorio en el ETH en Suiza. Si bien postulé al doctorado ahí, mi postulación no fue exitosa, y durante mi pasantía entendí mejor por qué: Un gran porcentaje de las y los estudiantes de doctorado o (1) habían cursado el &lt;a href=&quot;https://master-robotics.ethz.ch&quot;&gt;Master in Robotics, Systems and Control&lt;/a&gt; y realizado proyectos semestrales o tesis del master en ese laboratorio, o (2) habían cursado magísters en otros laboratorios de robótica famosos. Ahí entendí que era bastante difícil ser aceptado habiendo estudiado en Chile sin tener notas excepcionales.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;cuando-no-hacer-un-magíster-en-chile-ni-tampoco-en-el-extranjero&quot;&gt;Cuando NO hacer un magíster en Chile (ni tampoco en el extranjero)&lt;/h4&gt;
+&lt;p&gt;Este caso es extraño si te interesa hacer un doctorado de todos modos, pero puede existir. Hay un par de situaciones que se me vienen a la mente:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Si eres capaz de convencer a una universidad extranjera que tu título profesional de ingeniería es similar a una licenciatura con máster extranjero.&lt;/li&gt;
+  &lt;li&gt;Si quieres hacer el doctorado en Estados Unidos, donde los programas son más largos y generalmente consideran un máster en los primeros años.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Sobre el primer punto he escuchado algunos casos, pero depende mucho de la institución donde quieres postular al doctorado y los requerimientos de los programas.&lt;/p&gt;
+
+&lt;p&gt;Sobre el segundo, es un caso más especial de Estados Unidos. He sabido de casos que fueron aceptados en USA directamente después de terminar un programa de ingeniería en Chile, porque allá los programas aceptan a estudiantes de pregrado. También a veces ocurre porque se ganaron una beca, como &lt;a href=&quot;https://www.anid.cl/capital-humano/doctorado-igualdad-de-oportunidades-anid-fulbright/&quot;&gt;Fulbright&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h2 id=&quot;notas-al-pie&quot;&gt;Notas al pie&lt;/h2&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Calificaciones, grades &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 13 Jan 2023 08:00:00 +0000</pubDate>
+        <link>http://mmattamala.github.io/blog/2023/notas-phd-02-preguntas/</link>
+        <guid isPermaLink="true">http://mmattamala.github.io/blog/2023/notas-phd-02-preguntas/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>personal</category>
+        
+        <category>spanish</category>
+        
+        <category>espanol</category>
+        
+        <category>phd</category>
+        
+        <category>doctorado</category>
+        
+      </item>
+    
+      <item>
+        <title>Notas para postular a doctorados - Licenciatura, Magíster, Doctorado</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;:sparkles: Última actualización: 17/12/2022&lt;/p&gt;
+
+  &lt;p&gt;Notas: Los diagramas podrían ser más bonitos&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Este primer post es meramente introductorio para hacer aclaraciones y contextualizar los grados académicos en Chile.&lt;/p&gt;
+
+&lt;ol id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#grados-académicos&quot; id=&quot;markdown-toc-grados-académicos&quot;&gt;Grados académicos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#licenciatura&quot; id=&quot;markdown-toc-licenciatura&quot;&gt;Licenciatura&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#magíster&quot; id=&quot;markdown-toc-magíster&quot;&gt;Magíster&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#doctorado&quot; id=&quot;markdown-toc-doctorado&quot;&gt;Doctorado&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#postdoctorados&quot; id=&quot;markdown-toc-postdoctorados&quot;&gt;Postdoctorados&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#notas-al-pie&quot; id=&quot;markdown-toc-notas-al-pie&quot;&gt;Notas al pie&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;grados-académicos&quot;&gt;Grados académicos&lt;/h3&gt;
+&lt;p&gt;El doctorado es un grado académico así que partiremos con eso. Un grado académico en general acredita que adquiriste conocimientos y competencias pertinentes al grado, en una universidad. Los otros grados académicos son la &lt;strong&gt;licenciatura&lt;/strong&gt; y el &lt;strong&gt;magíster&lt;/strong&gt; (nombres chilenos). En general, se espera que uno adquiera grados académicos &lt;em&gt;superiores&lt;/em&gt; siguiendo el camino definido por el &lt;a href=&quot;https://es.wikipedia.org/wiki/T%C3%ADtulo_académico&quot;&gt;proceso de Bolonia&lt;/a&gt;:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\text{Licenciatura} \rightarrow \text{Magister} \rightarrow \text{Doctorado}&lt;/script&gt;
+
+&lt;p&gt; &lt;/p&gt;
+
+&lt;h3 id=&quot;licenciatura&quot;&gt;Licenciatura&lt;/h3&gt;
+&lt;p&gt;Es el grado más común, que en otros países de habla inglesa sería un &lt;em&gt;bachelor&lt;/em&gt;. Simplemente acredita que tienes conocimientos en una disciplina.&lt;/p&gt;
+
+&lt;p&gt;En Chile es confuso, porque uno no estudia una licenciatura per se sino una &lt;em&gt;carrera profesional&lt;/em&gt;, que conduce a un &lt;em&gt;título profesional&lt;/em&gt;. Por ejemplo, en mi caso estudié &lt;em&gt;Ingeniería Civil Eléctrica&lt;/em&gt;. En Chile las carreras te otorgan un título profesional y el grado de licenciatura. Sin embargo, &lt;strong&gt;este no es el caso de todas las universidades&lt;/strong&gt; y algunas sólo ofrecen títulos profesionales &lt;strong&gt;sin licenciatura&lt;/strong&gt;. Este es un tema muy importante, porque si tu carrera no te entrega la licenciatura, es muy probable que no puedas acceder a grados académicos superiores en la mayoría de los casos.&lt;/p&gt;
+
+&lt;p&gt;Al contrario de otros países, en Chile en general &lt;strong&gt;no es posible acceder a una posición laboral de ingeniería sólo con la licenciatura&lt;/strong&gt; - es necesario adquirir el título profesional. Esto nos pone en una desventaja comparados con otros países del hemisferio norte: tenemos que realizar estudios de pregrado más largos, de 5 a 6 años, comparados con los 3 a 4 años de países como Reino Unido (UK) o Francia. Si bien se permite realizar sólo la licenciatura (que para ingeniería puedes completar en 4 años), no creo que sea (socialmente) bien visto para postular a trabajos de ingeniera o ingeniero.&lt;/p&gt;
+
+&lt;p&gt;Otra desventaja de nuestro título profesional en Chile es que los 1.5-2 años “extra”&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; involucran más cursos y el desarrollo de un proyecto final, la &lt;em&gt;memoria de título&lt;/em&gt;. En otros países esto sería equivalente a un grado de magíster, pero no es nuestro caso.&lt;/p&gt;
+
+&lt;p&gt;Por último, nuestro título profesional (Ingeniería Civil Eléctrica por ejemplo), no tiene ninguna equivalencia internacional. El antiguamente profesor del Departamento de Ingeniería Eléctrica de la Universidad de Chile &lt;a href=&quot;https://www.linkedin.com/in/patricioparada/&quot;&gt;Patricio Parada&lt;/a&gt; lo explicó bastante bien en un post de la &lt;em&gt;Comunidad Eléctrica&lt;/em&gt; del 07/09/12 que siempre recuerdo, que me tomo la atribución de copiar acá&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;La traducción más apropiada para de la Licenciatura en Ciencias de la Ingeniería para universidades norteamericanas es Bachellor of Science o B.Sc. En el caso de nuestra especialidad se escribiría B. Sc. in Electrical Engineering (ese es el major).&lt;/p&gt;
+
+  &lt;p&gt;Más info en: &lt;a href=&quot;en.wikipedia.org/wiki/Bachelor_of_Science&quot;&gt;en.wikipedia.org/wiki/Bachelor_of_Science&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;Respecto del título profesional, ese es un punto más confuso. En USA el título de ingeniero profesional (P.E. o Professional Engineer) lo entrega un ente independiente en cada estado de la Unión, y es una licencia para ejercer la profesión con todos los derechos y responsabilidades legales que ello requiere. Habitualmente se obtiene luego de una educación en ingeniería acreditada (ABET) (mínimo B.Sc.), una prueba escrita de conocimientos en fundamentos de ingeniería , hasta 4 años de experiencia trabajando bajo la tutela de un PE y finalmente un examen final, también escrito, en conocimientos específicos de la especialidad de ingeniería que la persona siga.&lt;/p&gt;
+
+  &lt;p&gt;En este sentido, nuestro título profesional confiere de derechos similares que un PE, pero para fines académicos puede que esto no pese mucho.&lt;/p&gt;
+
+  &lt;p&gt;Finalmente, existe bastante cuidado con el uso de la sigla Eng. o P.E. detrás del nombre de la persona. Como decía antes, esto confiere ciertos derechos y obligaciones legales que de derivan de esta calificación, y por lo tanto, una persona que es sorprendida ejerciendo la ingeniería sin las licencias adecuadas puede sufrir todo el rigor de la ley. Similarmente, una empresa no puede ofrecer servicios de ingeniería a menos que tenga empleado al menos un PE.&lt;/p&gt;
+
+  &lt;p&gt;Más info en &lt;a href=&quot;en.wikipedia.org/wiki/Professional_engineer&quot;&gt;en.wikipedia.org/wiki/Professional_engineer&lt;/a&gt;&lt;/p&gt;
+
+  &lt;p&gt;Hay otra equivalencia que se podría emplear, aunque también es riesgosa, que es la de Diploma in Engeneering. Sin embargo, en algunos paises es considerada similar o incluso inferior a un B.Sc., por lo que sería mejor evitarlo.&lt;/p&gt;
+
+  &lt;p&gt;En su lugar, creo que lo mejor es escribir Ing. Civil. Ese es el título y no tiene traducción. Desde el punto de vista legal es equivalente a un PE, aunque obviamente no van a poder ejercer la profesión en otro país sin pasar por algún proceso de validación como el que mencioné.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;magíster&quot;&gt;Magíster&lt;/h3&gt;
+&lt;p&gt;El magíster, &lt;em&gt;máster&lt;/em&gt; o &lt;em&gt;maestría&lt;/em&gt; es un grado académico superior a la licenciatura, con el objetivo de especializar aún más los conocimientos en un área. En general puede ser de 1 a 2 años. En Chile la mayoría son de 2, e involucran cursos y una tesis. Además, pueden tener un enfoque &lt;strong&gt;profesional&lt;/strong&gt; para especializarse en áreas específicas (por ejemplo sistemas de energía o telecomunicaciones), o bien pueden ser magísteres &lt;strong&gt;científicos&lt;/strong&gt; para desarrollar competencias de investigación.&lt;/p&gt;
+
+&lt;p&gt;Para quienes teníamos interés en continuar estudios de doctorado, hacer un magíster científico era la opción adecuada. En mi caso el magíster que cursé en la Universidad de Chile es el &lt;em&gt;Magíster en Ciencias de la Ingeniería, Mención Eléctrica&lt;/em&gt;. Si bien existen otros magísteres con nombres más atractivos, como el &lt;a href=&quot;https://mds.uchile.cl&quot;&gt;&lt;em&gt;Magíster en Ciencia de Datos&lt;/em&gt;&lt;/a&gt; que ofrece la Universidad de Chile actualmente, aparte de los contenidos de los cursos y la tesis, no hay diferencias en el grado académico. Ambos son equivalentes a un &lt;em&gt;Master of Science&lt;/em&gt; o &lt;em&gt;M. Sc&lt;/em&gt; en universidades extranjeras.&lt;/p&gt;
+
+&lt;p&gt;La tesis de magíster puede tener varios objetivos, que dependen del tipo de programa y la universidad. En robótica he visto que algunas partes puede ser un proyecto más pequeño que solucione un problema particular. En otras partes tiene que ser algo novedoso, que idealmente conduzca a una publicación científica (&lt;em&gt;paper&lt;/em&gt;). La defensa de la tesis también puede variar en cada universidad.&lt;/p&gt;
+
+&lt;h3 id=&quot;doctorado&quot;&gt;Doctorado&lt;/h3&gt;
+&lt;p&gt;El doctorado es el último grado académico. Se conoce como doctorado, grado doctoral, PhD (en inglés), DPhil (sólo en Oxford). PhD viene del latín &lt;em&gt;philosophiae doctor&lt;/em&gt; que literalmente significa “Doctor en Filosofía”, entendiendo “filosofía” en un sentido amplio del conocimiento y no literalmente a la disciplina del mismo nombre. La Wikipedia tiene &lt;a href=&quot;https://es.wikipedia.org/wiki/Doctor_en_Filosof%C3%ADa#cite_note-1&quot;&gt;más información&lt;/a&gt; en las referencias.&lt;/p&gt;
+
+&lt;p&gt;Otra aclaración: si bien “PhD” es el nombre más usado y el que las universidades generalmente ofrecen, hay también &lt;em&gt;otros&lt;/em&gt; tipos de doctorados: doctorado en ciencias (D.Sc), doctorado en ciencias jurídicas (S.J.D.), &lt;a href=&quot;https://es.wikipedia.org/wiki/Divinitatis_doctor&quot;&gt;doctorado en divinidad&lt;/a&gt;, entre otros. También hay distinciones por país, por ejemplo en Alemania si uno estudia en una universidad técnica (como la Universidad Técnica de Munich) el grado se llama &lt;a href=&quot;https://en.wikipedia.org/wiki/Doktoringenieur&quot;&gt;Doktor-Ingenieur&lt;/a&gt; (Dr.-Ing.), en universidades “tradicionales” (como la Universidad Ludwig Maximilian de Munich) sería un &lt;a href=&quot;https://en.wikipedia.org/wiki/Dr._rer._nat.&quot;&gt;Dr. rer. nat.&lt;/a&gt;. Creo que en la práctica a todos se les puede llamar “PhD”, y todos te dan derecho a usar “Dr.” con tu nombre.&lt;/p&gt;
+
+&lt;p&gt;Para un PhD en general se requiere un magíster para poder postular (aunque hay excepciones). Esto porque no involucra solamente especializarse en un área, sino también &lt;strong&gt;impulsar&lt;/strong&gt; el desarrollo de una disciplina. La mejor forma de explicarlo es la &lt;a href=&quot;https://matt.might.net/articles/phd-school-in-pictures/&quot;&gt;guía ilustrada de Matt Might&lt;/a&gt;, también hay una &lt;a href=&quot;https://ictlogy.net/sociedadred/20100818-guia-ilustrada-para-un-doctorado/&quot;&gt;traducción al español&lt;/a&gt; por Miguel Peña-López.&lt;/p&gt;
+
+&lt;p&gt;El doctorado es principalmente una experiencia de investigación en un tema específico. En robótica y otras áreas científico-tecnológicas puede involucrar el desarrollo de sistemas, software o hardware, y explorar ideas que sean novedosas. La idea es que adquieras la experiencia para desarollar investigación, analizar problemas y proponer soluciones &lt;em&gt;innovadoras&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Un doctorado puede incluir cursos -con clases y exámenes- o puede ser solamente investigación, como en mi caso. Por lo mismo, un doctorado no es distinto a un trabajo &lt;em&gt;tradicional&lt;/em&gt;: ir día a día a la oficina/laboratorio a estudiar cosas por tu cuenta, hacer experimentos, analizar datos, diseñar cosas, implementarlas, etc. Debido a esto hay universidades en que tienes contrato y recibes un sueldo; en otras universidades eres más parecido a un/a estudiante y tienes una beca. Esto depende mucho del país y lo discuto en uno de los próximos posts, pero en cualquier caso un doctorado es un trabajo que te dará experiencia como cualquier otro.&lt;/p&gt;
+
+&lt;p&gt;Debido a lo anterior, un doctorado es mucho más largo que un magíster: de 3 años para los más cortos, hasta 10 en algunos casos. Esto depende del país, la universidad, cómo está estructurado el programa, y el financiamiento. El siguiente diagrama resume la mayoría de los programas:&lt;/p&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\text{Año 1-2: cursos o investigación preliminar}\\
+\Big\downarrow\\
+\text{Examen de calificación}\\
+\Big\downarrow\\
+\text{Año 2-3 a año N-1: Investigación principal}\\
+\Big\downarrow\\
+\text{Año N y más allá: Tesis}\\
+\Big\downarrow\\
+\text{Defensa de tesis / Viva}&lt;/script&gt;
+
+&lt;h3 id=&quot;postdoctorados&quot;&gt;Postdoctorados&lt;/h3&gt;
+&lt;p&gt;Un postdoctorado, post-doctorado, postdoc, etc, NO es un grado académico.&lt;/p&gt;
+
+&lt;p&gt;He visto muchas veces que en los medios de comunicación en Chile lo usan como si fuera un grado, pero no lo es. Un postdoctorado es una posición de investigación que puedes acceder, como indica el nombre, “después de haber hecho un doctorado”.&lt;/p&gt;
+
+&lt;p&gt;En la práctica es un trabajo, con contrato y salario. Aunque efectivamente hay posiciones que se consideran como becas o &lt;em&gt;fellowships&lt;/em&gt;, y quizás hay hartas controversias acerca de los condiciones de postdocs en todas partes, quiero insistir con el punto de que no se considera parte de tu formación académica formal, sino sólo como experiencia laboral o de investigación.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;h3 id=&quot;notas-al-pie&quot;&gt;Notas al pie&lt;/h3&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;Respecto a los 6 años de la ingeniería en Chile. Lamentablemente creo que esto es algo histórico, al menos en la Universidad de Chile. Una vez para un proyecto leí todas las actas de consejos de la Facultad de Ingeniería buscando los origenes de la Ingeniería Eléctrica (que se remontan a 1934) y mencionaban que los programas ya duraban 6 años. &lt;a href=&quot;https://drive.google.com/file/d/0B81i9Q49t7ZmTEZQNWdROVJJQVU/view?usp=sharing&amp;amp;resourcekey=0-s5BGVzTsroNtxgnMTMzYmA&quot;&gt;De hecho ingeniería eléctrica era una especialidad que agregaba años adicionales a los 6 base!&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;Ojalá Patricio no tenga problemas con esto, creo que es una gran aclaración :( &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Mon, 14 Nov 2022 16:39:18 +0000</pubDate>
+        <link>http://mmattamala.github.io/blog/2022/notas-phd-01-grados/</link>
+        <guid isPermaLink="true">http://mmattamala.github.io/blog/2022/notas-phd-01-grados/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>personal</category>
+        
+        <category>spanish</category>
+        
+        <category>espanol</category>
+        
+        <category>phd</category>
+        
+        <category>doctorado</category>
+        
+      </item>
+    
+      <item>
+        <title>Notas para postular a doctorados</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;:sparkles: Última actualización: 13/11/2022&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A veces me contacta gente para preguntarme cómo postulé al doctorado. Si bien soy feliz de ayudar caso a caso, me he dado cuenta que siempre terminado aconsejando casi las mismas cosas. Esto me motivó a escribir estas notas en un lugar (relativamente) permanente y público, por si llegan a ser útiles para alguien más.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;:warning: Antes de seguir, debes considerar que la información que comparto es plenamente subjetiva y tiene problemas:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;NO soy un experto (y no sé si hay “gente experta” en preparar esto). Se basa en mi experiencia y lo que he aprendido. No hay recetas que si sigues paso a paso van a funcionar.&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;Por otro lado:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Soy chileno, así que los consejos y las palabras que usaré podrían no ser familiares para otras personas latinas leyendo esto.&lt;/li&gt;
+    &lt;li&gt;Hay información que puede estar desactualizada, porque postulé el 2019.&lt;/li&gt;
+    &lt;li&gt;Hay varios temas que se centran en el hecho de que mi postulación fue a doctorados en robótica.&lt;/li&gt;
+    &lt;li&gt;Mucha información se basa también en comentarios, conversaciones con otras personas y cosas que he leído, por lo que muy probablemente hay imprecisiones.&lt;/li&gt;
+  &lt;/ul&gt;
+
+  &lt;p&gt;Por otro lado, hay varios privilegios implícitos en mi experiencia:&lt;/p&gt;
+  &lt;ul&gt;
+    &lt;li&gt;Siempre viví en Santiago, la capital.&lt;/li&gt;
+    &lt;li&gt;Estudié un pregrado en Ingeniería Civil Eléctrica, en la Universidad de Chile.&lt;/li&gt;
+    &lt;li&gt;Soy hombre, así que hay opiniones sesgadas y limitadas a este hecho (como opinar sobre seguridad de ciertos lugares).&lt;/li&gt;
+  &lt;/ul&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Varias ideas que escribo en este post tratan de ser relativamente generales, pero hay que considerar los sesgos anteriores.&lt;/p&gt;
+
+&lt;p&gt;Habiendo hecho las aclaraciones pertinentes para entender el contexto, he dividido la información en distintas secciones, para evitar la sobrecarga de información.&lt;/p&gt;
+
+&lt;h3 id=&quot;contenidos&quot;&gt;Contenidos&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;/blog/2022/notas-phd-01-grados/&quot;&gt;Licenciatura, magíster y doctorado&lt;/a&gt;: Aclaraciones generales sobre grados académicos y qué se espera de cada uno.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/blog/2022/notas-phd-02-preguntas/&quot;&gt;Por qué hacer (o no) un doctorado?&lt;/a&gt;: La principal pregunta que uno debería hacerse antes de todo.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/blog/2022/notas-phd-03-donde/&quot;&gt;Dónde postular?&lt;/a&gt;: Notas sobre cómo elegir lugares y en qué fijarse.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/blog/2022/notas-phd-03-postulacion1/&quot;&gt;Postulación, parte 1&lt;/a&gt;: Notas sobre fechas, documentos, tests de idiomas, financiamiento.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/blog/2022/notas-phd-04-postulacion2/&quot;&gt;Postulación, parte 2&lt;/a&gt;: Research statements, cartas de recomendación, colleges y otros tips que he aprendido.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/blog/2022/notas-phd-05-post/&quot;&gt;Post-postulación&lt;/a&gt;: Qué pasa despues de que postulas.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;agradecimientos&quot;&gt;Agradecimientos&lt;/h3&gt;
+
+</description>
+        <pubDate>Sun, 13 Nov 2022 00:01:00 +0000</pubDate>
+        <link>http://mmattamala.github.io/blog/2022/notas-phd-00-intro/</link>
+        <guid isPermaLink="true">http://mmattamala.github.io/blog/2022/notas-phd-00-intro/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>personal</category>
+        
+        <category>spanish</category>
+        
+        <category>espanol</category>
+        
+        <category>phd</category>
+        
+        <category>doctorado</category>
+        
+      </item>
+    
+      <item>
+        <title>Updating the website</title>
+        <description>&lt;p&gt;Since Twitter seems to be dying, I’m updating the website to have a proper blog. It may also be useful to practice towards the upcoming &lt;em&gt;thesis writing&lt;/em&gt; in a few months. Hope to have more news soon.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 12 Nov 2022 23:36:00 +0000</pubDate>
+        <link>http://mmattamala.github.io/blog/2022/updating-the-website/</link>
+        <guid isPermaLink="true">http://mmattamala.github.io/blog/2022/updating-the-website/</guid>
+        
+        
+        <category>blog</category>
+        
+        <category>personal</category>
+        
+        <category>english</category>
+        
+      </item>
+    
+  </channel>
+</rss>
