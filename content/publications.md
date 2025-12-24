@@ -4,9 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
-This will be updated. In the meantime, you can check my [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=R5aRkHUAAAAJ&view_op=list_works&authuser=1&sortby=pubdate).
+This will be updated (hopefully). In the meantime, you can check my [Google Scholar](https://scholar.google.co.uk/citations?hl=en&user=R5aRkHUAAAAJ&view_op=list_works&authuser=1&sortby=pubdate), which I keep up to date.
 
-&nbsp;
 
 ## Other writing
 You might be also interested in:

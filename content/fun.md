@@ -4,7 +4,11 @@ title: Fun stuff
 permalink: /fun/
 ---
 
-This is a collection of fun, interesting, or simply random stuff I have been involved in. Mostly with robots.
+This is a collection of fun, interesting, or simply random stuff I have been involved in related to robotics.
+
+### 2025
+- June: I started a new position at the Center for AI in Assistive Autonomy. The fun part is working with new robots - arms!
+- May: This was my last month in Oxford. The University of Oxford made a very nice video with our work on forest inventory. I appeared in some shots when we deployed the robot in the Forest of Dean in February 2025. [link](https://www.ox.ac.uk/climate-and-environment/digiforest)
 
 ### 2024
 - November: I joined the efforts to write the SLAM Handbook led by Luca Carlone, Ayoung Kim, Frank Dellaert, Tim Barfoot, and Daniel Cremers. Marco Camurri and I wrote a chapter on leg odometry. The [first part is openly available for review](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release/blob/main/README.md), our chapter will appear in part 2.

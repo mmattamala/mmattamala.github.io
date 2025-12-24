@@ -9,9 +9,6 @@ categories: blog personal spanish espanol phd doctorado
 
 > :sparkles: Última actualización: 16/11/2022
 
-1. TOC
-{:toc}
-
 ### Research statement / motivation letter
 No tan especifico
 

@@ -14,9 +14,6 @@ categories: blog personal spanish espanol phd doctorado
 
 En este post vamos a discutir cómo elegir dónde hacer un doctorado, basado en 3 criterios me comentaron cuando estaba postulando: destinos, instituciones y grupos de investigación. Además vamos a discutir algunos pro y contra de destinos "típicos" (bastante subjetivos y basados en mi experiencia o comentarios de otras personas).
 
-1. TOC
-{:toc}
-
 ### Criterio 1: Quiero vivir en X ciudad: destinos
 
 ### Criterio 2: Quiero estudiar en X universidad: instituciones

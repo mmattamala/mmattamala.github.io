@@ -13,9 +13,6 @@ categories: blog personal spanish espanol phd doctorado
 
 Este primer post es meramente introductorio para hacer aclaraciones y contextualizar los grados académicos en Chile.
 
-1. TOC
-{:toc}
-&nbsp;
 
 ### Grados académicos
 El doctorado es un grado académico así que partiremos con eso. Un grado académico en general acredita que adquiriste conocimientos y competencias pertinentes al grado, en una universidad. Los otros grados académicos son la **licenciatura** y el **magíster** (nombres chilenos). En general, se espera que uno adquiera grados académicos _superiores_ siguiendo el camino definido por el [proceso de Bolonia](https://es.wikipedia.org/wiki/T%C3%ADtulo_académico):
@@ -77,8 +74,10 @@ Un doctorado puede incluir cursos -con clases y exámenes- o puede ser solamente
 Debido a lo anterior, un doctorado es mucho más largo que un magíster: de 3 años para los más cortos, hasta 10 en algunos casos. Esto depende del país, la universidad, cómo está estructurado el programa, y el financiamiento. El siguiente diagrama resume la mayoría de los programas:
 
 $$
-\text{Año 1-2: cursos o investigación preliminar}\\
-\Big\downarrow\\
+\text{Año 1-2: cursos o investigación preliminar}
+\\
+\Big\downarrow
+\\
 \text{Examen de calificación}\\
 \Big\downarrow\\
 \text{Año 2-3 a año N-1: Investigación principal}\\

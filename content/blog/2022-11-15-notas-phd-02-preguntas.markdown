@@ -13,9 +13,6 @@ categories: blog personal spanish espanol phd doctorado
 
 Esta pregunta es por supuesto la principal. Por supuesto mientras antes uno lo piense mejor, pero a veces es un proceso. Cuando entré a la universidad no entendía como la gente estudiaba tanto y "nunca ejercía lo que estudió" - y acá estoy 10 años después, cursando mi doctorado. Vamos a discutir algunas razones que podrían motivar a hacerlo o no.
 
-1. TOC
-{:toc}
-&nbsp;
 
 ### Razones a favor
 Cuando he hablado con gente me han contado distintas motivaciones. Creo que todas son válidas, pero no las compartiré acá. Sin embargo, puedo comentar las mías:

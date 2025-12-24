@@ -9,8 +9,6 @@ categories: blog personal spanish espanol phd doctorado
 
 > :sparkles: Última actualización: 15/11/2022
 
-1. TOC
-{:toc}
 
 ## Antes de postular
 
