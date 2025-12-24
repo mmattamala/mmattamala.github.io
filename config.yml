@@ -1,0 +1,97 @@
+baseURL: "https://mmattamala.github.io"
+title: Matías Mattamala's website
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+  tag: tags
+
+menu:
+  main:
+  - name: About
+    url: about
+    weight: 1
+  - name: Publications
+    url: publications
+    weight: 2
+  - name: Fun
+    url: fun
+    weight: 3
+  - name: Blog
+    url: blog/
+    weight: 4
+
+params:
+  description: "This website hosts Dr Matias Mattamala's information, Chilean roboticits and Research Associate at the University of Edinburgh, UK"
+  # author: Matias Mattamala
+  googleAnalyticsID: "G-K0YVZTFTRV"
+  DateFormat: "January 2006"
+  defaultTheme: light
+  hideFooter: false
+  disableThemeToggle: true
+  ShowShareButtons: false
+  ShowReadingTime: false
+  disableSpecial1stPost: true
+  disableAnchoredHeadings: true
+  ShowPostNavLinks: false
+  ShowBreadCrumbs: false
+  ShowCodeCopyButtons: true
+  ShowAllPagesInArchive: false
+  MainSections: [ "about", "publications" ]
+  ShowToc: false
+  disableScrollToTop: true
+  TocOpen: true
+  ShowWordCount: false
+  UseHugoToc: true
+  comments: false
+  math: true
+  socialIcons:
+  - name: Email
+    url: "mailto:matias.mattamala@ed.ac.uk"
+  - name: Google Scholar
+    url: https://scholar.google.co.uk/citations?hl=en&user=WYijA64AAAAJ&view_op=list_works&sortby=pubdate
+  - name: GitHub
+    url: https://github.com/mmattamala/
+  - name: Bluesky
+    url: https://bsky.app/profile/mmattamala.bsky.social
+  profileMode:
+    enabled: true
+    title: Matías Mattamala
+    subtitle: "I am a roboticist and currently a research associate in the Centre for AI in Assistive Autonomy, School of Informatics, University of Edinburgh. <br><br> I aim to make robots that help us understand and solve problems of the real world. To achieve this, my research focuses on the foundations and systems for lifelong autonomy: representations and algorithms for perception, learning, and action that enable autonomous and adaptive behaviour in robots working with humans or alone in the wild."
+    news: "**News:** Christina and Sacha presented our [OpenLex3D](https://openlex3d.github.io) paper at NeurIPS 2025"
+    imageUrl: "mm2024.jpg"
+    imageWidth: 160
+    imageHeight: 160
+    buttons:
+    - name: About
+      url: about/
+    - name: Publications
+      url: publications/
+    - name: CV
+      url: mm_cv_full.pdf
+
+  assets:
+    disableScrollBarStyle: true
+  cover:
+    hiddenInList: true
+    hiddenInSingle: true
+  label:
+    text: "Matías Mattamala"
+    icon: favicon.ico
+    iconHeight: 18
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    guessSyntax: true
+    style: autumn
+  tableOfContents:
+    endLevel: 2
+    ordered: false
+    startLevel: 2
