@@ -75,14 +75,14 @@
 .post-content a,
 .post-meta a,
 .toc a {
-    color: var(--darkcolor);
+    color: currentColor;
+    box-shadow: 0 1px 0 currentColor;
 }
 
 .post-content a:hover,
 .post-meta a:hover,
 .toc a:hover {
     box-shadow: 0 2px 0 var(--darkcolor);
-    /* color: currentColor;  */
 }
 
 .post-content a code {

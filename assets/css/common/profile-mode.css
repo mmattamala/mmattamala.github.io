@@ -24,12 +24,22 @@
 
 .profile_inner a {
     color: currentColor;
+    box-shadow: 0 1px 0 currentColor;
 }
 
-/* .profile_inner a:hover {
+.profile_inner a:hover {
+    /* font-weight: var(--semibold); */
     box-shadow: 0 2px 0 var(--darkcolor);
-    /* color: currentColor;
-} */
+}
+
+.social-icons a {
+    box-shadow: none;
+}
+
+.social-icons a:hover {
+    box-shadow: none;
+    color: var(--darkcolor);
+}
 
 .profile img {
     border-radius: 50%;
@@ -37,7 +47,17 @@
 }
 
 .buttons {
+    box-shadow: none;
     flex-wrap: wrap;
+}
+
+.buttons a {
+    box-shadow: none;
+}
+
+.buttons a:hover {
+    box-shadow: none;
+    color: var(--darkcolor);
 }
 
 .button {
