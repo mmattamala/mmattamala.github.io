@@ -6,21 +6,18 @@ permalink: /news/
 
 - Dec 2025: [Christina Kassab](https://ckassab.github.io) and [Sacha Morin](https://sachamorin.github.io) presented our [OpenLex3D](https://openlex3d.github.io) paper at NeurIPS 2025.
 - Nov 2025: I gave a talk presenting the main projects of the Assistive Care Team in the Centre for AI in Assistive Autonomy Inaugural Event.
+- Nov 2025: The World Economic Forum [has featured part of my work on forestry robotics](https://www.weforum.org/videos/robot_dogs_forests_uk/) done at the University of Oxford.
 - Nov 2025: I'll be a Reviewer for RSS 2026.
 - Sep 2025: I'll serve as an Associate Editor for ICRA 2026.
-- July 2025: I'll be an invited speaker at IWIALS 2025 in Austria. I will give a talk on my research and my tutorial on graphics for papers.
+- July 2025: I'll be an invited speaker at [IWIALS 2025 in Austria](https://www.ias.informatik.tu-darmstadt.de/Workshops/IWIALS). I'm giving a talk on my research and my tutorial on graphics for papers.
 - June 2025: I moved to the University of Edinburgh for a new postdoc at the Centre for AI in Assistive Autonomy. I'll be leading the Assistive Care team.
-- May 2025: Invited as an early-career speaker at ICRA @Latin America in Santiago, Chile. I gave a talk on my research and my tutorial on graphics for papers.
+- May 2025: Invited as an early-career speaker at [ICRA @Latin America in Santiago, Chile](https://icra25lasat.ieeechile.cl/program.html). I gave a talk on my research and my tutorial on graphics for papers.
 - May 2025: I've been recognised as an Outstanding Robotics and Automation Letters (RA-L) Reviewer 2025.
 - May 2025: I finished my postdoc at the University of Oxford.
+- Apr 2025: I've contributed an [article to The Conversation](https://theconversation.com/a-robot-that-you-ride-like-a-horse-is-being-developed-it-will-stretch-current-limits-of-engineering-254483) discussing the Corleo robot by Kawazaki.
 - Jan 2025: I'll serve as an Associate Editor for IROS 2025.
-
-(...)
-
-- Jun 2024: I'll be in ICRA 2024 in Yokohama, Japan. I'll be presenting a wprkshop paper on forest inventory in the Field Robotics Workshop. Christina Kassab will present LEXIS, and Ethan Tao will present SiLVR.
-
-(...)
-
+- Oct 2024: Benoit Casseau, Leonard Freißmuth, and Haedam Oh will be in Iros 2024 presenting a set on papers on forestry robotics where I contributed.
+- Jun 2024: I'll be in ICRA 2024 in Yokohama, Japan. I'll be presenting a workshop paper on forest inventory in the Field Robotics Workshop. Christina Kassab will present LEXIS, Ethan Tao will present SiLVR, and Jin Jin (ETH Zurich) will present a resilient navigation paper. Jin's paper is a finalist for the Cognitive Robotics Paper Award.
 - Nov 2023: I passed my PhD viva, examined by Stefan Leutenegger and Ioannis Havoutis.
 - Sep 2023: I started a postdoctoral position at the University of Oxford.
 - Sep 2023: I submitted my PhD thesis!
@@ -28,21 +25,25 @@ permalink: /news/
 - May 2023: I'll be in ICRA 2023 in London.
 - May 2022: I'll be presenting my locally reactive controller RA-L paper in ICRA 2022 in Philadephia.
 - Apr 2022: I started a visiting researcher position at the Robotic Systems Lab (RSL) at ETH Zurich.
-
-(...)
-
+- Feb 2022: My RA-L paper on teach and repeat has been featured on [TechXplore](https://techxplore.com/news/2022-02-locally-reactive-visual.html).
+- Oct 2021: I've been awarded an NCCR Robotics PhD Exchange Fellowship to visit ETH Zurich.
+- Aug 2021: Yiduo Wang's paper on scalable reconstruction, where I contributed, will be presented in ECMR 2021.
+- May 2021: I presented my first paper of my PhD, on visual teach and repeat on legged robots in ICRA 2021 (online). I also presented my ongoing work at the Legged Robots workshop, and my abstract was a finalist.
+- Mar 2021: I'll be leading an (online) robotic exploration challenge for the students of the CDT in Autonomous and Intelligent Machines and Systems (AIMS).
+- Oct 2020: The Newer College Dataset paper led by Milad Ramezani will be presented at IROS 2020.
 - Oct 2019: I started my PhD in robotics at the University of Oxford.
-
-(...)
-
+- Jun 2019: I've been awarded a Becas Chile Scholarship for my PhD studies at the University of Oxford.
+- Aug 2018: I started a job as Coordinator of the Beauchef Projecta unit at the Faculty of Physical and Mathematical Sciences, Universidad de Chile.
+- Aug 2018: I've defended my master's thesis on visual SLAM. Thanks to my examiners José Martínez Carranza, Felipe Tobar, and Javier Ruiz-del-Solar.
+- Jul 2017: Our paper on visual navigation with the robot Pepper, done by Cristopher Gómez, Tim Resink, and myself, was presented by Cristopher in the RoboCup Symposium 2017, in Nagoya, Japan.
 - Dec 2016: We were awarded CLP 2,500,000 to make our own version of Duckietown at the Universidad de Chile [(link)](https://uchile.cl/noticias/129613/estudiantes-de-postgrado-desarrollaran-13-proyectos-academicos)
 - Nov 2016: I gave an invited talk about Robot Football at Futuristas, a TED-like event for high-school students and general public in Santiago.
-- Jun 2016: Our RoboCup paper introducing the NAO Backpack was presented by my colleague ROdrigo Pérez-Dattari at the RoboCup Symposium 2016.
-- Jun 2015: Fourth RoboCup in Hefei, China. We got the 4th place again!
+- Jun 2016: Our RoboCup paper introducing the NAO Backpack was presented by my colleague Rodrigo Pérez-Dattari at the RoboCup Symposium 2016.
+- Jun 2015: I participated in my 4th RoboCup in Hefei, China. We got the 4th place again!
 - Jun 2015: I presented my first paper, on active vision, in the RoboCup Symposium 2015.
-- Jun 2014: Third RoboCup in João Pessoa, Brazil. We got the fourth place in the Standard Platform League!
+- Jun 2014: I participated in my 3rd RoboCup in João Pessoa, Brazil. We got the fourth place in the Standard Platform League!
 - Apr 2014: I started as a mentor in the Mustakis Foundation, teaching robotics courses for high-school students.
-- Jan 2014: I'll be pursuing a short program on Academic English at the University of Victorya, Canada, from January to April.
-- Jun 2013: Second RoboCup in Eindhoven, The Netherlands
+- Jan 2014: I'm taking a short program on Academic English at the University of Victoria, Canada, from January to April.
+- Jun 2013: I participated in my second RoboCup, which took place in Eindhoven, Netherlands.
 - Jan 2013: I'll be doing an engineering internship at the Atacama Large Millimiter/submillimeter Array (ALMA) from January to early March.
 - Jun 2012: I'll join my first RoboCup in Mexico City, Mexico
