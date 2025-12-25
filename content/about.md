@@ -11,6 +11,7 @@ I am a Research Associate at the University of Edinburgh, working in the Centre 
 <details>
 <summary>(Useful for other things, like IEEE papers)</summary>
 <br>
+
 Matias Mattamala is a Research Associate at the University of Edinburgh, working in the Centre for AI in Assistive Autonomy. From 2023-2025 he was a Postdoctoral Researcher in the Dynamic Robot Systems Group at the University of Oxford. He completed his Ph.D. in vision-based legged robot navigation from the University of Oxford in 2023. In 2022, he was also a visiting researcher at the Robotics Systems Lab, ETH Zurich. His research interests are in the foundations and systems for robot autonomy---representations, perception, action, and learning.
 </details>
 
@@ -19,6 +20,7 @@ Matias Mattamala is a Research Associate at the University of Edinburgh, working
 <details>
 <summary>(If you need a detailed explanation, with links)</summary>
 <br>
+
 Since June 2025, I'm a Research Associate at the new [Centre for AI in Assistive Autonomy](https://assistive-autonomy.ed.ac.uk), based in the School of Informatics, University of Edinburgh. I'm leading the Assistive Care team, which is developing robotic systems to interact with humans in assistive settings in long-term scenarios.
 
 Before, I was a Postdoctoral Researcher (September 2023 - May 2025) at the [Dynamic Robot Systems Group (DRS)](https://ori.ox.ac.uk/labs/drs/) of the [Oxford Robotics Institute](https://ori.ox.ac.uk/), enabling robots to achieve [autonomous surveying and monitoring missions in the wild](https://www.ox.ac.uk/climate-and-environment/digiforest).

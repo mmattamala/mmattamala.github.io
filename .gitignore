@@ -1,6 +1,7 @@
 _site/
 .sass-cache/
 .DS_STORE
+.code-workspace
 
 # Hugo build artifacts
 public/
