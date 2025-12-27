@@ -16,9 +16,10 @@ permalink: /news/
 - May 2025: I finished my postdoc at the University of Oxford.
 - Apr 2025: I've contributed an [article to The Conversation](https://theconversation.com/a-robot-that-you-ride-like-a-horse-is-being-developed-it-will-stretch-current-limits-of-engineering-254483) discussing the Corleo robot by Kawazaki.
 - Jan 2025: I'll serve as an Associate Editor for IROS 2025.
+- Nov 2024:I joined the efforts to write the SLAM Handbook led by Luca Carlone, Ayoung Kim, Frank Dellaert, Tim Barfoot, and Daniel Cremers. Marco Camurri and I wrote a chapter on leg odometry. The [first part is openly available for review](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release/blob/main/README.md), our chapter will appear in part 2.
 - Oct 2024: Benoit Casseau, Leonard Freißmuth, and Haedam Oh will be in Iros 2024 presenting a set on papers on forestry robotics where I contributed.
-- Jun 2024: I'll be in ICRA 2024 in Yokohama, Japan. I'll be presenting a workshop paper on forest inventory in the Field Robotics Workshop. Christina Kassab will present LEXIS, Ethan Tao will present SiLVR, and Jin Jin (ETH Zurich) will present a resilient navigation paper. Jin's paper is a finalist for the Cognitive Robotics Paper Award.
-- Nov 2023: I passed my PhD viva, examined by Stefan Leutenegger and Ioannis Havoutis.
+- Jun 2024: I'll be in ICRA 2024 in Yokohama, Japan. I'll be presenting a workshop paper on forest inventory in the Field Robotics Workshop. Christina Kassab will present [LEXIS](https://ieeexplore.ieee.org/abstract/document/10610341), Ethan Tao will present [SiLVR](https://ieeexplore.ieee.org/abstract/document/10611278), Meher Malladi (Uni Bonn) will present a [tree segmentation system](https://ieeexplore.ieee.org/abstract/document/10611169), and Jin Jin (ETH Zurich) will present a [resilient navigation paper](https://ieeexplore.ieee.org/abstract/document/10611254) (also a finalist for the Cognitive Robotics Paper Award)
+- Nov 2023: I passed my PhD viva on the 17th, examined by Stefan Leutenegger and Ioannis Havoutis. [Link](https://x.com/mmattamala/status/1725634112071909396/photo/1)
 - Sep 2023: I started a postdoctoral position at the University of Oxford.
 - Sep 2023: I submitted my PhD thesis!
 - Jul 2023: Jonas Frey and I will be presenting our Wild Visual Navigation paper in RSS 2023, Daegu, Korea.

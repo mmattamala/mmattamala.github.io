@@ -75,15 +75,37 @@ Debido a lo anterior, un doctorado es mucho más largo que un magíster: de 3 a�
 
 $$
 \text{Año 1-2: cursos o investigación preliminar}
-\\
-\Big\downarrow
-\\
-\text{Examen de calificación}\\
-\Big\downarrow\\
-\text{Año 2-3 a año N-1: Investigación principal}\\
-\Big\downarrow\\
-\text{Año N y más allá: Tesis}\\
-\Big\downarrow\\
+$$
+
+$$
+\downarrow
+$$
+
+$$
+\text{Examen de calificación}
+$$
+
+$$
+\downarrow
+$$
+
+$$
+\text{Año 2-3 a año N-1: Investigación principal}
+$$
+
+$$
+\downarrow
+$$
+
+$$
+\text{Año N y más allá: Tesis}
+$$
+
+$$
+\downarrow
+$$
+
+$$
 \text{Defensa de tesis / Viva}
 $$
 
