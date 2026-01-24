@@ -42,7 +42,7 @@ params:
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   ShowAllPagesInArchive: false
-  MainSections: [ "about", "publications" ]
+  MainSections: ["about", "publications"]
   ShowToc: false
   disableScrollToTop: true
   TocOpen: true
@@ -65,7 +65,7 @@ params:
     enabled: true
     title: Matías Mattamala
     subtitle: "I am a roboticist and currently a research associate in the [Centre for AI in Assistive Autonomy](https://assistive-autonomy.ed.ac.uk), School of Informatics, University of Edinburgh. <br><br> :robot: I aim to make robots that help us understand and solve problems of the real world. To achieve this, my research focuses on the foundations and systems for lifelong autonomy: representations and algorithms for perception, learning, and action that enable autonomous and adaptive behaviour in robots working with humans or alone in the wild."
-    news: ":sparkles: **Latest News:** (December) [Christina Kassab](https://ckassab.github.io) and [Sacha Morin](https://sachamorin.github.io) presented our [OpenLex3D](https://openlex3d.github.io) paper at NeurIPS 2025."
+    news: ":sparkles: **Latest News:** Jan 2026: Our workshop proposal ['Act to Sense to Act Better: Learning and Representations for Active Perception in Manipulation'](https://active-perception-workshop.github.io) has been accepted to ICRA 2026. This is a joint effort with Cristiana de Farias, Tim Schneider (Darmstadt), Russell Buchanan (Waterloo) and Roberto Calandra (Dresden)."
     imageUrl: "mm2024.jpg"
     imageWidth: 160
     imageHeight: 160

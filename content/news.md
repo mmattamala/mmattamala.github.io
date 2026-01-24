@@ -4,6 +4,7 @@ title: News
 permalink: /news/
 ---
 
+- Jan 2026: Our workshop proposal ['Act to Sense to Act Better: Learning and Representations for Active Perception in Manipulation'](https://active-perception-workshop.github.io) has been accepted to ICRA 2026. This is a joint effort with Cristiana de Farias, Tim Schneider (Darmstadt), Russell Buchanan (Waterloo) and Roberto Calandra (Dresden).
 - Dec 2025: [Christina Kassab](https://ckassab.github.io) and [Sacha Morin](https://sachamorin.github.io) presented our [OpenLex3D](https://openlex3d.github.io) paper at NeurIPS 2025.
 - Nov 2025: I gave a talk presenting the main projects of the Assistive Care Team in the Centre for AI in Assistive Autonomy Inaugural Event.
 - Nov 2025: The World Economic Forum [has featured part of my work on forestry robotics](https://www.weforum.org/videos/robot_dogs_forests_uk/) done at the University of Oxford.
