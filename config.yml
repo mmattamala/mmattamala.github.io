@@ -27,7 +27,7 @@ menu:
     weight: 4
 
 params:
-  description: "This website hosts Dr Matias Mattamala's information, Chilean roboticits and Research Associate at the University of Edinburgh, UK"
+  description: "This website hosts Dr. Matias Mattamala's information, Chilean roboticist and Research Associate at the University of Edinburgh, UK"
   # author: Matias Mattamala
   googleAnalyticsID: "G-K0YVZTFTRV"
   DateFormat: "January 2006"
@@ -42,7 +42,7 @@ params:
   ShowBreadCrumbs: false
   ShowCodeCopyButtons: true
   ShowAllPagesInArchive: false
-  MainSections: ["about", "publications"]
+  MainSections: [ "about", "publications" ]
   ShowToc: false
   disableScrollToTop: true
   TocOpen: true
@@ -65,7 +65,7 @@ params:
     enabled: true
     title: Matías Mattamala
     subtitle: "I am a roboticist and currently a research associate in the [Centre for AI in Assistive Autonomy](https://assistive-autonomy.ed.ac.uk), School of Informatics, University of Edinburgh. <br><br> :robot: I aim to make robots that help us understand and solve problems of the real world. To achieve this, my research focuses on the foundations and systems for lifelong autonomy: representations and algorithms for perception, learning, and action that enable autonomous and adaptive behaviour in robots working with humans or alone in the wild."
-    news: ":sparkles: **Latest News:** Jan 2026: Our workshop proposal ['Act to Sense to Act Better: Learning and Representations for Active Perception in Manipulation'](https://active-perception-workshop.github.io) has been accepted to ICRA 2026. This is a joint effort with Cristiana de Farias, Tim Schneider (Darmstadt), Russell Buchanan (Waterloo) and Roberto Calandra (Dresden)."
+    news: ":sparkles: **Latest News:** May 2026: I'll be in ICRA 2026. I'm co-organising the ['Act to Sense to Act Better'](https://active-perception-workshop.github.io) workshop, I'll be presenting my [TFR paper on legged robots for forestry](https://ieeexplore.ieee.org/abstract/document/11053872) (previous work with Oxford), and my colleague Salvatore Esposito will be presenting the [ROOM simulator](https://arxiv.org/abs/2509.13177). See you in Vienna!"
     imageUrl: "mm2024.jpg"
     imageWidth: 160
     imageHeight: 160
