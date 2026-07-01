@@ -65,7 +65,7 @@ params:
     enabled: true
     title: Matías Mattamala
     subtitle: "I am a roboticist and currently a research associate in the [Centre for AI in Assistive Autonomy](https://assistive-autonomy.ed.ac.uk), School of Informatics, University of Edinburgh. <br><br> :robot: I aim to make robots that help us understand and solve problems of the real world. To achieve this, my research focuses on the foundations and systems for lifelong autonomy: representations and algorithms for perception, learning, and action that enable autonomous and adaptive behaviour in robots working with humans or alone in the wild."
-    news: ":sparkles: **Latest News:** May 2026: I'll be in ICRA 2026. I'm co-organising the ['Act to Sense to Act Better'](https://active-perception-workshop.github.io) workshop, I'll be presenting my [TFR paper on legged robots for forestry](https://ieeexplore.ieee.org/abstract/document/11053872) (previous work with Oxford), and my colleague Salvatore Esposito will be presenting the [ROOM simulator](https://arxiv.org/abs/2509.13177). See you in Vienna!"
+    news: ":sparkles: **Latest News:** Jun 2026: Aditya Kamireddypalli's paper on vision and contact mapping has been accepted to IROS 2026! Pre-print to come soon"
     imageUrl: "mm2024.jpg"
     imageWidth: 160
     imageHeight: 160

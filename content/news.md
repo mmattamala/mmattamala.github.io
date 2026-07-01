@@ -3,7 +3,8 @@ layout: page
 title: News
 permalink: /news/
 ---
-- May 2026: I'll be in ICRA 2026. I'm co-organising the ['Act to Sense to Act Better'](https://active-perception-workshop.github.io) workshop, I'll be presenting my [TFR paper on legged robots for forestry](https://ieeexplore.ieee.org/abstract/document/11053872) (previous work with Oxford), and my colleague Salvatore Esposito will be presenting the [ROOM simulator](https://arxiv.org/abs/2509.13177). See you in Vienna!
+- Jun 2026: Aditya Kamireddypalli's paper on vision and contact mapping has been accepted to IROS 2026! Pre-print to come soon
+- May 2026: ~~I'll be in ICRA 2026~~. I'm co-organising the ['Act to Sense to Act Better'](https://active-perception-workshop.github.io) workshop, I'll be presenting my [TFR paper on legged robots for forestry](https://ieeexplore.ieee.org/abstract/document/11053872) (previous work with Oxford), and my colleague Salvatore Esposito will be presenting the [ROOM simulator](https://arxiv.org/abs/2509.13177). See you in Vienna!
 - Mar 2026: I gave an online talk to the William Bright Society at Glenalmond College in Perth.
 - Feb 2026: I gave a talk on robot representations to the Computational Cognitive Science group led by Dr. Benjamin Peters here at Edinburgh.
 - Jan 2026: Our workshop proposal ['Act to Sense to Act Better: Learning and Representations for Active Perception in Manipulation'](https://active-perception-workshop.github.io) has been accepted to ICRA 2026. This is a joint effort with Cristiana de Farias, Tim Schneider (Darmstadt), Russell Buchanan (Waterloo) and Roberto Calandra (Dresden).
