@@ -4,7 +4,7 @@ title: About me
 permalink: /about/
 ---
 
-I am a Research Associate at the University of Edinburgh, working in the Centre for AI in Assistive Autonomy. From 2023-2025 I was a Postdoctoral Researcher in the Dynamic Robot Systems Group at the University of Oxford. I received the M.Sc in Electrical Engineering from the Universidad de Chile in 2018, and the Ph.D. in vision-based legged robot navigation from the University of Oxford in 2023. In 2022, I was also a visiting researcher at the Robotics Systems Lab, ETH Zurich. My research interests are in the foundations and systems for robot autonomy---representations, perception, action, and learning.
+I am a Research Associate at the University of Edinburgh, working in the Centre for AI in Assistive Autonomy. From 2023-2025 I was a Postdoctoral Researcher in the Dynamic Robot Systems Group at the University of Oxford. I received a Ph.D. in vision-based legged robot navigation from the University of Oxford in 2023, and an M.Sc in Electrical Engineering from the Universidad de Chile in 2018. In 2022, I was also a visiting researcher at the Robotics Systems Lab, ETH Zurich. My research interests are in the foundations and systems for robot autonomy---representations, perception, action, and learning.
 
 My [CV](../mm_cv_full.pdf), and my [CV of Failures](../mm_cv_failures.pdf)
 
