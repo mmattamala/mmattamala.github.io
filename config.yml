@@ -65,7 +65,7 @@ params:
     enabled: true
     title: Matías Mattamala
     subtitle: "I am a roboticist and currently a research associate in the [Centre for AI in Assistive Autonomy](https://assistive-autonomy.ed.ac.uk), School of Informatics, University of Edinburgh. <br><br> :robot: I aim to make robots that help us understand and solve problems of the real world. To achieve this, my research focuses on the foundations and systems for lifelong autonomy: representations and algorithms for perception, learning, and action that enable autonomous and adaptive behaviour in robots working with humans or alone in the wild."
-    news: ":sparkles: **Latest News:** Jul 2026: Christina Kassab's last paper of her PhD, LEXI-SG, has been accepted to Robotics and Automation Letters (RA-L). Preprint available on [arXiv](https://arxiv.org/abs/2605.13741)!"
+    news: ":sparkles: **Latest News:** Jul 2026: Our review paper ''Advances, challenges, and opportunities for legged robots'' in collaboration with Jonas Frey, Hae-Won Park, Mayank Mittal, Georg Martius, Maike Osborne, Robert Sparrow, and Marco Hutter has been published in [Science Robotics](https://www.science.org/doi/10.1126/scirobotics.aee0787)"
     imageUrl: "mm2024.jpg"
     imageWidth: 160
     imageHeight: 160

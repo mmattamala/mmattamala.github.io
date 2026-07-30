@@ -3,6 +3,7 @@ layout: page
 title: News
 permalink: /news/
 ---
+- Jul 2026: Our review paper ''Advances, challenges, and opportunities for legged robots'' in collaboration with Jonas Frey, Hae-Won Park, Mayank Mittal, Georg Martius, Maike Osborne, Robert Sparrow, and Marco Hutter has been published in [Science Robotics](https://www.science.org/doi/10.1126/scirobotics.aee0787)
 - Jul 2026: Christina Kassab's last paper of her PhD, LEXI-SG, has been accepted to Robotics and Automation Letters (RA-L). Preprint available on [arXiv](https://arxiv.org/abs/2605.13741)!
 - Jul 2026: I have added a CV of failures to this website
 - Jun 2026: Aditya Kamireddypalli's paper on vision and contact mapping has been accepted to IROS 2026! Preprint available on [arXiv](https://arxiv.org/abs/2503.16592).
